@@ -1,0 +1,33 @@
+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 (hF token)
+
+-> surfresearchcloud.nl -> klik resume -> -> set up whole setup !!!!! ZET UIT NA GEBRUIK!!!!
+
+
+TODO:
+- CODE / PAPER: how many time does model generate identical output?
+
+- PAPER meer uitleggen over LLM, waarom pretrained LLM is.
+- PAPER: LLM is getraind op online data, dus kan zoiets al eerder gezien hebben.
+
+- ANALYSE: Automatic evaluation verschillen analyseren / does human evaluation reflect automatic evaluation?
+
+
+
+
+VRAGEN VOLGENDE MEETING:
+
+
+
+MEETING NOTES:
+
+- automatic evaluation: verschilllen onder metrics: samplen voor human evaluation in 3 strata (hoog laag middel) -> does human evaluation reflect automatic evaluation. (for chrF++ / degene met hoogste variance, voor elke paramater combination)
+
+
+- human evaluation: 
+
+10 sentences per param / 2x langs.
+iedereen doet 10 sentences.
+(dezelfde: agreement controleren)
+10 teksten per texts.
+3 surveys, voor iedere groep 1. 
+
