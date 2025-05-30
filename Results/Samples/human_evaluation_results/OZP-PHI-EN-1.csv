@@ -1,0 +1,1272 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q37,Q2_1,Q2_2,Q2_3,Q3_1,Q3_2,Q3_3,Q4_1,Q4_2,Q4_3,Q5_1,Q5_2,Q5_3,Q6_1,Q6_2,Q6_3,Q7_1,Q7_2,Q7_3,Q8_1,Q8_2,Q8_3,Q9_1,Q9_2,Q9_3,Q10_1,Q10_2,Q10_3,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q13_1,Q13_2,Q13_3,Q14_1,Q14_2,Q14_3,Q15_1,Q15_2,Q15_3,Q16_1,Q16_2,Q16_3,Q17_1,Q17_2,Q17_3,Q18_1,Q18_2,Q18_3,Q19_1,Q19_2,Q19_3,Q20_1,Q20_2,Q20_3,Q21_1,Q21_2,Q21_3,Q22_1,Q22_2,Q22_3,Q23_1,Q23_2,Q23_3,Q24_1,Q24_2,Q24_3,Q25_1,Q25_2,Q25_3,Q26_1,Q26_2,Q26_3,Q27_1,Q27_2,Q27_3,Q28_1,Q28_2,Q28_3,Q30_1,Q30_2,Q30_3,Q31_1,Q31_2,Q31_3,Q29_1,Q29_2,Q29_3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"By answering with ""yes"", you acknowledge:
+
+That your participation in this study is voluntary;
+That you are aware that you can withdraw your participation at any time.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bedford Aerodrome, operated by MotorSport Vision, has the ICAO Location Identifier EGBF and is situated at an elevation of 83.2104 feet above sea level. The aerodrome features a runway named 08/26, which is made of concrete.
+
+
+
+
+
+Correct sentence(s):
+
+MotorSport Vision is the operating organisation for Bedford Aerodrome which has a runway surface made out of concrete. Bedford Aerodrome's International Civil Aviation Organization (ICAO) identifier is EGBF and it is 83.2104 above sea level. The aerodrome has a runway called 08/26.
+
+The Bedford Aerodrome, operated by the MotorSport Vision, is located 83.2 meters above sea level at ICAO location identifier EGBF. It has a concrete runway named ""08/26"".
+MotorSport Vision operates the Bedford Aerodrome, whose ICAO location identifier is EGBF. It is also known for a runway called 08/26, and it has a runway surface made of concrete with the elevation above sea level of 82.2104. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bedford Aerodrome, operated by MotorSport Vision, has the ICAO Location Identifier EGBF and is situated at an elevation of 83.2104 feet above sea level. The aerodrome features a runway named 08/26, which is made of concrete.
+
+
+
+
+
+Correct sentence(s):
+
+MotorSport Vision is the operating organisation for Bedford Aerodrome which has a runway surface made out of concrete. Bedford Aerodrome's International Civil Aviation Organization (ICAO) identifier is EGBF and it is 83.2104 above sea level. The aerodrome has a runway called 08/26.
+
+The Bedford Aerodrome, operated by the MotorSport Vision, is located 83.2 meters above sea level at ICAO location identifier EGBF. It has a concrete runway named ""08/26"".
+MotorSport Vision operates the Bedford Aerodrome, whose ICAO location identifier is EGBF. It is also known for a runway called 08/26, and it has a runway surface made of concrete with the elevation above sea level of 82.2104. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bedford Aerodrome, operated by MotorSport Vision, has the ICAO Location Identifier EGBF and is situated at an elevation of 83.2104 feet above sea level. The aerodrome features a runway named 08/26, which is made of concrete.
+
+
+
+
+
+Correct sentence(s):
+
+MotorSport Vision is the operating organisation for Bedford Aerodrome which has a runway surface made out of concrete. Bedford Aerodrome's International Civil Aviation Organization (ICAO) identifier is EGBF and it is 83.2104 above sea level. The aerodrome has a runway called 08/26.
+
+The Bedford Aerodrome, operated by the MotorSport Vision, is located 83.2 meters above sea level at ICAO location identifier EGBF. It has a concrete runway named ""08/26"".
+MotorSport Vision operates the Bedford Aerodrome, whose ICAO location identifier is EGBF. It is also known for a runway called 08/26, and it has a runway surface made of concrete with the elevation above sea level of 82.2104. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mexico has currency Mexican peso. Mexico has demonym Mexicans. Bionico has course Dessert. Bionico has mainIngredient Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins. Dessert has dishVariation Sandesh (confectionery). Bionico has country Mexico.
+
+
+Correct sentence(s): 
+Bionico, a dessert found in Mexico along with Sandesh (confectionary), is made of sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut, and Mexicans, people living in Mexico, use the peso, the local currency, to buy it.
+
+The main ingredients of Bionico (a dish served for dessert) are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins, bionico is a food found in Mexico. The currency in Mexico is the Mexican peso, and the country is inhabited by the Mexicans. Sandesh is a nice confectionery dessert.
+
+Chopped Fruits, sour cream, condensed milk, granola, shredded coconut and raisins are the main ingredients in bionico (a dessert). The currency of Mexico is the peso inhabited by the Mexicans. Sandesh is a dessert. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mexico has currency Mexican peso. Mexico has demonym Mexicans. Bionico has course Dessert. Bionico has mainIngredient Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins. Dessert has dishVariation Sandesh (confectionery). Bionico has country Mexico.
+
+
+Correct sentence(s): 
+Bionico, a dessert found in Mexico along with Sandesh (confectionary), is made of sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut, and Mexicans, people living in Mexico, use the peso, the local currency, to buy it.
+
+The main ingredients of Bionico (a dish served for dessert) are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins, bionico is a food found in Mexico. The currency in Mexico is the Mexican peso, and the country is inhabited by the Mexicans. Sandesh is a nice confectionery dessert.
+
+Chopped Fruits, sour cream, condensed milk, granola, shredded coconut and raisins are the main ingredients in bionico (a dessert). The currency of Mexico is the peso inhabited by the Mexicans. Sandesh is a dessert. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mexico has currency Mexican peso. Mexico has demonym Mexicans. Bionico has course Dessert. Bionico has mainIngredient Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins. Dessert has dishVariation Sandesh (confectionery). Bionico has country Mexico.
+
+
+Correct sentence(s): 
+Bionico, a dessert found in Mexico along with Sandesh (confectionary), is made of sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut, and Mexicans, people living in Mexico, use the peso, the local currency, to buy it.
+
+The main ingredients of Bionico (a dish served for dessert) are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins, bionico is a food found in Mexico. The currency in Mexico is the Mexican peso, and the country is inhabited by the Mexicans. Sandesh is a nice confectionery dessert.
+
+Chopped Fruits, sour cream, condensed milk, granola, shredded coconut and raisins are the main ingredients in bionico (a dessert). The currency of Mexico is the peso inhabited by the Mexicans. Sandesh is a dessert. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bedford Aerodrome is operated by MotorSport Vision.
+
+
+Correct sentence(s): 
+The Bedford Aerodrome has an operating organization that is called the MotorSport Vision.
+
+MotorSport Vision is the operating organisation for Bedford Aerodrome.
+
+MotorSport Vision operates the Bedford Aerodrome. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bedford Aerodrome is operated by MotorSport Vision.
+
+
+Correct sentence(s): 
+The Bedford Aerodrome has an operating organization that is called the MotorSport Vision.
+
+MotorSport Vision is the operating organisation for Bedford Aerodrome.
+
+MotorSport Vision operates the Bedford Aerodrome. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bedford Aerodrome is operated by MotorSport Vision.
+
+
+Correct sentence(s): 
+The Bedford Aerodrome has an operating organization that is called the MotorSport Vision.
+
+MotorSport Vision is the operating organisation for Bedford Aerodrome.
+
+MotorSport Vision operates the Bedford Aerodrome. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Zaoyang is part of Xiangyang.
+
+
+Correct sentence(s): 
+Zaoyang is part of Xiangyang.
+
+Zaoyang is in Xiangyang. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Zaoyang is part of Xiangyang.
+
+
+Correct sentence(s): 
+Zaoyang is part of Xiangyang.
+
+Zaoyang is in Xiangyang. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Zaoyang is part of Xiangyang.
+
+
+Correct sentence(s): 
+Zaoyang is part of Xiangyang.
+
+Zaoyang is in Xiangyang. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The people from India are called Indians.
+
+
+Correct sentence(s): 
+ Indian is the demonym for people from India. 
+
+The demonym for a person from India is Indian. 
+
+Indian is the demonym for the people of India. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The people from India are called Indians.
+
+
+Correct sentence(s): 
+ Indian is the demonym for people from India. 
+
+The demonym for a person from India is Indian. 
+
+Indian is the demonym for the people of India. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The people from India are called Indians.
+
+
+Correct sentence(s): 
+ Indian is the demonym for people from India. 
+
+The demonym for a person from India is Indian. 
+
+Indian is the demonym for the people of India. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Death on a Factory Farm has musicComposer Jamie Lawrence. Jamie Lawrence was born on March 8, 1970. 
+
+
+Correct sentence(s): 
+Jamie Lawrence, born on 03-08-1970, is the music composer of Death on a Factory Farm. 
+
+The movie ""Death on a Factory Farm"" contains music composed by Jamie Lawrence, who was born on 03/08/1970. 
+
+Jamie Lawrence, who was born on March 8th, 1970 wrote music for the film ""Death on a Factory Farm"". - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Death on a Factory Farm has musicComposer Jamie Lawrence. Jamie Lawrence was born on March 8, 1970. 
+
+
+Correct sentence(s): 
+Jamie Lawrence, born on 03-08-1970, is the music composer of Death on a Factory Farm. 
+
+The movie ""Death on a Factory Farm"" contains music composed by Jamie Lawrence, who was born on 03/08/1970. 
+
+Jamie Lawrence, who was born on March 8th, 1970 wrote music for the film ""Death on a Factory Farm"". - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Death on a Factory Farm has musicComposer Jamie Lawrence. Jamie Lawrence was born on March 8, 1970. 
+
+
+Correct sentence(s): 
+Jamie Lawrence, born on 03-08-1970, is the music composer of Death on a Factory Farm. 
+
+The movie ""Death on a Factory Farm"" contains music composed by Jamie Lawrence, who was born on 03/08/1970. 
+
+Jamie Lawrence, who was born on March 8th, 1970 wrote music for the film ""Death on a Factory Farm"". - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy is located in the city of Dijon, which is in France.
+
+
+Correct sentence(s): 
+ The University of Burgundy is located in the city of Dijon in France. 
+
+The University of Burgundy is located in Dijon, France. 
+
+The University of Burgundy is located in the city of Dijon,France. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy is located in the city of Dijon, which is in France.
+
+
+Correct sentence(s): 
+ The University of Burgundy is located in the city of Dijon in France. 
+
+The University of Burgundy is located in Dijon, France. 
+
+The University of Burgundy is located in the city of Dijon,France. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy is located in the city of Dijon, which is in France.
+
+
+Correct sentence(s): 
+ The University of Burgundy is located in the city of Dijon in France. 
+
+The University of Burgundy is located in Dijon, France. 
+
+The University of Burgundy is located in the city of Dijon,France. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva has citizenship in the United States. The United States has leader John Roberts.
+
+
+Correct sentence(s): 
+
+
+Darinka Dentcheva is a citizen of the United States, the country where John Roberts is one of the leaders.
+
+Darinka Dentcheva is a citizen of the United States, where John Roberts serves as one of the countries leaders.
+
+John Roberts is a leader in the United States, where Darinka Dentcheva is a citizen. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva has citizenship in the United States. The United States has leader John Roberts.
+
+
+Correct sentence(s): 
+
+
+Darinka Dentcheva is a citizen of the United States, the country where John Roberts is one of the leaders.
+
+Darinka Dentcheva is a citizen of the United States, where John Roberts serves as one of the countries leaders.
+
+John Roberts is a leader in the United States, where Darinka Dentcheva is a citizen. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva has citizenship in the United States. The United States has leader John Roberts.
+
+
+Correct sentence(s): 
+
+
+Darinka Dentcheva is a citizen of the United States, the country where John Roberts is one of the leaders.
+
+Darinka Dentcheva is a citizen of the United States, where John Roberts serves as one of the countries leaders.
+
+John Roberts is a leader in the United States, where Darinka Dentcheva is a citizen. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+McVeagh of the South Seas, which has an IMDb ID of 0004319, stars Harry Carey, an actor born in 1878, who also wrote the film. The movie was produced by The Progressive Motion Picture Company and distributed by Alliance Films Corporation.
+
+
+Correct sentence(s): 
+
+
+McVeagh of the South Seas (IMDb id 0004319) was written by Harry Carey, born in 1878, who also had a role in the film. McVeagh of the South Seas was produced by the Progressive Motion Picture Company and distributed by the Alliance Films Corporation.
+
+Harry Carey, born in 1878, wrote and starred in McVeagh of the South Seas which was produced by the Progressive Motion Picture Company. The movie was registered in IMDb with the ID 0004319 and distributed by Alliance Films Corporation.
+
+The film McVeagh of the South Seas was written by and starred the actor Harry Carey, who was born in 1878. The film was produced by the Progressive Motion Picture Company and distributed by Alliance Films Corporation. The film can be found in IMDb under the ID 0004319. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+McVeagh of the South Seas, which has an IMDb ID of 0004319, stars Harry Carey, an actor born in 1878, who also wrote the film. The movie was produced by The Progressive Motion Picture Company and distributed by Alliance Films Corporation.
+
+
+Correct sentence(s): 
+
+
+McVeagh of the South Seas (IMDb id 0004319) was written by Harry Carey, born in 1878, who also had a role in the film. McVeagh of the South Seas was produced by the Progressive Motion Picture Company and distributed by the Alliance Films Corporation.
+
+Harry Carey, born in 1878, wrote and starred in McVeagh of the South Seas which was produced by the Progressive Motion Picture Company. The movie was registered in IMDb with the ID 0004319 and distributed by Alliance Films Corporation.
+
+The film McVeagh of the South Seas was written by and starred the actor Harry Carey, who was born in 1878. The film was produced by the Progressive Motion Picture Company and distributed by Alliance Films Corporation. The film can be found in IMDb under the ID 0004319. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+McVeagh of the South Seas, which has an IMDb ID of 0004319, stars Harry Carey, an actor born in 1878, who also wrote the film. The movie was produced by The Progressive Motion Picture Company and distributed by Alliance Films Corporation.
+
+
+Correct sentence(s): 
+
+
+McVeagh of the South Seas (IMDb id 0004319) was written by Harry Carey, born in 1878, who also had a role in the film. McVeagh of the South Seas was produced by the Progressive Motion Picture Company and distributed by the Alliance Films Corporation.
+
+Harry Carey, born in 1878, wrote and starred in McVeagh of the South Seas which was produced by the Progressive Motion Picture Company. The movie was registered in IMDb with the ID 0004319 and distributed by Alliance Films Corporation.
+
+The film McVeagh of the South Seas was written by and starred the actor Harry Carey, who was born in 1878. The film was produced by the Progressive Motion Picture Company and distributed by Alliance Films Corporation. The film can be found in IMDb under the ID 0004319. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Al Asad Airbase is operated by the United States Air Force and has the ICAO Location Identifier ORAA.
+
+
+Correct sentence(s): 
+
+
+Operated by the United States Air Force, Al Asad Airbase uses ORAA as its ICAO location identifier.
+
+The ICAO Location Identifier of Al Asad Airbase is ORAA and is operated by The United States Air Force.
+
+ORAA is the ICAO location identifier of Al Asad Airbase which is operated by the United States Air Force. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Al Asad Airbase is operated by the United States Air Force and has the ICAO Location Identifier ORAA.
+
+
+Correct sentence(s): 
+
+
+Operated by the United States Air Force, Al Asad Airbase uses ORAA as its ICAO location identifier.
+
+The ICAO Location Identifier of Al Asad Airbase is ORAA and is operated by The United States Air Force.
+
+ORAA is the ICAO location identifier of Al Asad Airbase which is operated by the United States Air Force. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Al Asad Airbase is operated by the United States Air Force and has the ICAO Location Identifier ORAA.
+
+
+Correct sentence(s): 
+
+
+Operated by the United States Air Force, Al Asad Airbase uses ORAA as its ICAO location identifier.
+
+The ICAO Location Identifier of Al Asad Airbase is ORAA and is operated by The United States Air Force.
+
+ORAA is the ICAO location identifier of Al Asad Airbase which is operated by the United States Air Force. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Lady Anne Monson is from the Kingdom of England and currently resides in India. She is married to George Monson.
+
+
+Correct sentence(s): 
+
+
+Lady Anne Monson is from the Kingdom of England. She resided in India and was married to George Monson.
+
+Lady Anne Monson, an Englishwoman residing in India, is married to George Monson.
+
+ Lady Anne Monson, spouse of George Monson, lived in the Kingdom of England at one point and held British nationality, despite residing in India most of her life. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Lady Anne Monson is from the Kingdom of England and currently resides in India. She is married to George Monson.
+
+
+Correct sentence(s): 
+
+
+Lady Anne Monson is from the Kingdom of England. She resided in India and was married to George Monson.
+
+Lady Anne Monson, an Englishwoman residing in India, is married to George Monson.
+
+ Lady Anne Monson, spouse of George Monson, lived in the Kingdom of England at one point and held British nationality, despite residing in India most of her life. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Lady Anne Monson is from the Kingdom of England and currently resides in India. She is married to George Monson.
+
+
+Correct sentence(s): 
+
+
+Lady Anne Monson is from the Kingdom of England. She resided in India and was married to George Monson.
+
+Lady Anne Monson, an Englishwoman residing in India, is married to George Monson.
+
+ Lady Anne Monson, spouse of George Monson, lived in the Kingdom of England at one point and held British nationality, despite residing in India most of her life. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The Fellowship of the Ring follows The Two Towers.
+
+
+Correct sentence(s): 
+
+
+The Fellowship of the Ring was followed by The Two Towers.
+
+The Two Towers is the sequel to The Fellowship of the Ring. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The Fellowship of the Ring follows The Two Towers.
+
+
+Correct sentence(s): 
+
+
+The Fellowship of the Ring was followed by The Two Towers.
+
+The Two Towers is the sequel to The Fellowship of the Ring. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The Fellowship of the Ring follows The Two Towers.
+
+
+Correct sentence(s): 
+
+
+The Fellowship of the Ring was followed by The Two Towers.
+
+The Two Towers is the sequel to The Fellowship of the Ring. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mermaid (Train song) has a musical band called Train. Mermaid (Train song) was produced by Espionage. Mermaid (Train song) was followed by Imagine (John Lennon song), which received a FIMI certification.
+
+
+Correct sentence(s): 
+
+
+The song Mermaid was written by the band Train And produced by the Espionage production team. The song was followed by the release of the band’s cover of Imagine by John Lennon. The original song Imagine by John Lennon earned the FIMI certification.
+
+The song Mermaid, which was produced by the Espionage production team, belongs to the musical band Train. The song was followed by their cover of the John Lennon song Imagine and the original song Imagine by John Lennon is certified by FIMI.
+
+The musical band Train song Mermaid, produced by the team Espionage was followed by ""Imagine"", a FIMI certified song by John Lennon. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mermaid (Train song) has a musical band called Train. Mermaid (Train song) was produced by Espionage. Mermaid (Train song) was followed by Imagine (John Lennon song), which received a FIMI certification.
+
+
+Correct sentence(s): 
+
+
+The song Mermaid was written by the band Train And produced by the Espionage production team. The song was followed by the release of the band’s cover of Imagine by John Lennon. The original song Imagine by John Lennon earned the FIMI certification.
+
+The song Mermaid, which was produced by the Espionage production team, belongs to the musical band Train. The song was followed by their cover of the John Lennon song Imagine and the original song Imagine by John Lennon is certified by FIMI.
+
+The musical band Train song Mermaid, produced by the team Espionage was followed by ""Imagine"", a FIMI certified song by John Lennon. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mermaid (Train song) has a musical band called Train. Mermaid (Train song) was produced by Espionage. Mermaid (Train song) was followed by Imagine (John Lennon song), which received a FIMI certification.
+
+
+Correct sentence(s): 
+
+
+The song Mermaid was written by the band Train And produced by the Espionage production team. The song was followed by the release of the band’s cover of Imagine by John Lennon. The original song Imagine by John Lennon earned the FIMI certification.
+
+The song Mermaid, which was produced by the Espionage production team, belongs to the musical band Train. The song was followed by their cover of the John Lennon song Imagine and the original song Imagine by John Lennon is certified by FIMI.
+
+The musical band Train song Mermaid, produced by the team Espionage was followed by ""Imagine"", a FIMI certified song by John Lennon. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The University of Burgundy has 27,400 students.
+
+
+
+Correct sentence(s): 
+There are 27400 students at the University of Burgundy.
+
+The number of students in the University of Burgundy is 27400.
+
+The University of Burgundy has 27400 students. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The University of Burgundy has 27,400 students.
+
+
+
+Correct sentence(s): 
+There are 27400 students at the University of Burgundy.
+
+The number of students in the University of Burgundy is 27400.
+
+The University of Burgundy has 27400 students. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The University of Burgundy has 27,400 students.
+
+
+
+Correct sentence(s): 
+There are 27400 students at the University of Burgundy.
+
+The number of students in the University of Burgundy is 27400.
+
+The University of Burgundy has 27400 students. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Mermaid (Train song) was written by Amund Bjørklund. It was produced by Stargate (production team). The song is part of the California 37 (Train album). The format available for Mermaid (Train song) is Music download. “
+
+
+Correct sentence(s): 
+Mermaid” is a song by Train on their “California 37” album. The song was produced by the Espionage production team and Stargate. It was written by Amund Bjorklund and is available in digital format.
+
+The Train song Mermaid belonging to the California 37 Train album was written by Amund Bjørklund and production team Stargate. It was produced by the production team Espionage and distributed in the digital format.
+
+The song Mermaid written by Amund Bjorklund and Train , produced by Stargate is off the album California 37 by the band Train. It was distributed digitally by the production team Espionage. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Mermaid (Train song) was written by Amund Bjørklund. It was produced by Stargate (production team). The song is part of the California 37 (Train album). The format available for Mermaid (Train song) is Music download. “
+
+
+Correct sentence(s): 
+Mermaid” is a song by Train on their “California 37” album. The song was produced by the Espionage production team and Stargate. It was written by Amund Bjorklund and is available in digital format.
+
+The Train song Mermaid belonging to the California 37 Train album was written by Amund Bjørklund and production team Stargate. It was produced by the production team Espionage and distributed in the digital format.
+
+The song Mermaid written by Amund Bjorklund and Train , produced by Stargate is off the album California 37 by the band Train. It was distributed digitally by the production team Espionage. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Mermaid (Train song) was written by Amund Bjørklund. It was produced by Stargate (production team). The song is part of the California 37 (Train album). The format available for Mermaid (Train song) is Music download. “
+
+
+Correct sentence(s): 
+Mermaid” is a song by Train on their “California 37” album. The song was produced by the Espionage production team and Stargate. It was written by Amund Bjorklund and is available in digital format.
+
+The Train song Mermaid belonging to the California 37 Train album was written by Amund Bjørklund and production team Stargate. It was produced by the production team Espionage and distributed in the digital format.
+
+The song Mermaid written by Amund Bjorklund and Train , produced by Stargate is off the album California 37 by the band Train. It was distributed digitally by the production team Espionage. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+1147 Stavropolis has an apoapsis of 418,476,000,000.0 and was discovered on 1929-06-11.
+
+
+Correct sentence(s): 
+Discovered on June 11, 1929, 1147 Stavropolis is an asteroid with an apoapsis of 418476000000.0.
+
+1147 Stavropolis is an asteroid with apoapsis of 418476000000.0 AU, discovered on 11 June 1929.
+
+1147 Stavropolis, discovered on June 11, 1929, has an apoapsis of 418476000000.0. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+1147 Stavropolis has an apoapsis of 418,476,000,000.0 and was discovered on 1929-06-11.
+
+
+Correct sentence(s): 
+Discovered on June 11, 1929, 1147 Stavropolis is an asteroid with an apoapsis of 418476000000.0.
+
+1147 Stavropolis is an asteroid with apoapsis of 418476000000.0 AU, discovered on 11 June 1929.
+
+1147 Stavropolis, discovered on June 11, 1929, has an apoapsis of 418476000000.0. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+1147 Stavropolis has an apoapsis of 418,476,000,000.0 and was discovered on 1929-06-11.
+
+
+Correct sentence(s): 
+Discovered on June 11, 1929, 1147 Stavropolis is an asteroid with an apoapsis of 418476000000.0.
+
+1147 Stavropolis is an asteroid with apoapsis of 418476000000.0 AU, discovered on 11 June 1929.
+
+1147 Stavropolis, discovered on June 11, 1929, has an apoapsis of 418476000000.0. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Ciudad Ayala's leader title is Governator.
+
+
+Correct sentence(s): 
+Ciudad Ayala has a leader called the Governator. 
+
+In Ciudad Ayala the leader is called the governator.' - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Ciudad Ayala's leader title is Governator.
+
+
+Correct sentence(s): 
+Ciudad Ayala has a leader called the Governator. 
+
+In Ciudad Ayala the leader is called the governator.' - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Ciudad Ayala's leader title is Governator.
+
+
+Correct sentence(s): 
+Ciudad Ayala has a leader called the Governator. 
+
+In Ciudad Ayala the leader is called the governator.' - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+FC Terek Grozny has ground Grozny. Aleksandr Prudnikov has the current club FC Amkar Perm. Aleksandr Prudnikov has played for FC Terek Grozny. FC Terek Grozny's manager is Rashid Rakhimov. Aleksandr Prudnikov has a youth club, FC Spartak Moscow.
+
+
+Correct sentence(s): 
+Aleksandr Prudnikov plays for FC Terek Grozny (based at Grozny) and managed by Rashid Rakhimov.Aleksandr Prudnikov played for FC Spartak Moscow's youth team an his current club is FC Amkar Perm.
+
+Aleksandr Prudnikov is in the FC Terek Grozny club (based in Grozny) and managed by Rashid Rakhimov. He is a member of the youth side of FC Spartak Moscow and also plays for FC Amkar Perm.
+
+Aleksandr Prudnikov youth football club was FC Spartak Moscow and he also played for FC Terek Grozny located in Grozny and managed by Rashid Rakhimov. Aleksandr Prudnikov currently plays for FC Amkar Perm. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+FC Terek Grozny has ground Grozny. Aleksandr Prudnikov has the current club FC Amkar Perm. Aleksandr Prudnikov has played for FC Terek Grozny. FC Terek Grozny's manager is Rashid Rakhimov. Aleksandr Prudnikov has a youth club, FC Spartak Moscow.
+
+
+Correct sentence(s): 
+Aleksandr Prudnikov plays for FC Terek Grozny (based at Grozny) and managed by Rashid Rakhimov.Aleksandr Prudnikov played for FC Spartak Moscow's youth team an his current club is FC Amkar Perm.
+
+Aleksandr Prudnikov is in the FC Terek Grozny club (based in Grozny) and managed by Rashid Rakhimov. He is a member of the youth side of FC Spartak Moscow and also plays for FC Amkar Perm.
+
+Aleksandr Prudnikov youth football club was FC Spartak Moscow and he also played for FC Terek Grozny located in Grozny and managed by Rashid Rakhimov. Aleksandr Prudnikov currently plays for FC Amkar Perm. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+FC Terek Grozny has ground Grozny. Aleksandr Prudnikov has the current club FC Amkar Perm. Aleksandr Prudnikov has played for FC Terek Grozny. FC Terek Grozny's manager is Rashid Rakhimov. Aleksandr Prudnikov has a youth club, FC Spartak Moscow.
+
+
+Correct sentence(s): 
+Aleksandr Prudnikov plays for FC Terek Grozny (based at Grozny) and managed by Rashid Rakhimov.Aleksandr Prudnikov played for FC Spartak Moscow's youth team an his current club is FC Amkar Perm.
+
+Aleksandr Prudnikov is in the FC Terek Grozny club (based in Grozny) and managed by Rashid Rakhimov. He is a member of the youth side of FC Spartak Moscow and also plays for FC Amkar Perm.
+
+Aleksandr Prudnikov youth football club was FC Spartak Moscow and he also played for FC Terek Grozny located in Grozny and managed by Rashid Rakhimov. Aleksandr Prudnikov currently plays for FC Amkar Perm. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+San Francisco has a UTC offset of -7.
+
+
+Correct sentence(s): 
+San Francisco is in the timezone UTC-7.
+
+The UTC offset at San Francisco is -7.
+
+San Francisco's Coordinated Universal Time Offset is minus seven hours. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+San Francisco has a UTC offset of -7.
+
+
+Correct sentence(s): 
+San Francisco is in the timezone UTC-7.
+
+The UTC offset at San Francisco is -7.
+
+San Francisco's Coordinated Universal Time Offset is minus seven hours. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+San Francisco has a UTC offset of -7.
+
+
+Correct sentence(s): 
+San Francisco is in the timezone UTC-7.
+
+The UTC offset at San Francisco is -7.
+
+San Francisco's Coordinated Universal Time Offset is minus seven hours. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Brandon Carter, born on January 1, 1942, studied at the University of Cambridge. At the University of Cambridge, the chancellor is David Sainsbury, Baron Sainsbury of Turville. Brandon Carter's doctoral advisor was Dennis William Sciama.
+
+
+Correct sentence(s): 
+Brandon Carter (born in 1942 on January, 1) graduated from the University of Cambridge where David Sainsbury is the chancellor, who is also known as Baron Sainsbury of Turville. Dennis William Sciama was the advisor of Carter.
+
+Brandon Carter was born on January 1, 1942 and graduated from the University of Cambridge where the current chancellor is David Sainsbury, Baron Sainsbury of Turville. Brandon's doctoral advisor was Dennis William Sciama.
+
+Brandon Carter (b. Jan. 1, 1942) had Dennis William Sciama as his doctoral advisor at his alma mater the University of Cambridge, where David Sainsbury, also known as Baron Sainsbury of Turville, is the chancellor. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Brandon Carter, born on January 1, 1942, studied at the University of Cambridge. At the University of Cambridge, the chancellor is David Sainsbury, Baron Sainsbury of Turville. Brandon Carter's doctoral advisor was Dennis William Sciama.
+
+
+Correct sentence(s): 
+Brandon Carter (born in 1942 on January, 1) graduated from the University of Cambridge where David Sainsbury is the chancellor, who is also known as Baron Sainsbury of Turville. Dennis William Sciama was the advisor of Carter.
+
+Brandon Carter was born on January 1, 1942 and graduated from the University of Cambridge where the current chancellor is David Sainsbury, Baron Sainsbury of Turville. Brandon's doctoral advisor was Dennis William Sciama.
+
+Brandon Carter (b. Jan. 1, 1942) had Dennis William Sciama as his doctoral advisor at his alma mater the University of Cambridge, where David Sainsbury, also known as Baron Sainsbury of Turville, is the chancellor. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Brandon Carter, born on January 1, 1942, studied at the University of Cambridge. At the University of Cambridge, the chancellor is David Sainsbury, Baron Sainsbury of Turville. Brandon Carter's doctoral advisor was Dennis William Sciama.
+
+
+Correct sentence(s): 
+Brandon Carter (born in 1942 on January, 1) graduated from the University of Cambridge where David Sainsbury is the chancellor, who is also known as Baron Sainsbury of Turville. Dennis William Sciama was the advisor of Carter.
+
+Brandon Carter was born on January 1, 1942 and graduated from the University of Cambridge where the current chancellor is David Sainsbury, Baron Sainsbury of Turville. Brandon's doctoral advisor was Dennis William Sciama.
+
+Brandon Carter (b. Jan. 1, 1942) had Dennis William Sciama as his doctoral advisor at his alma mater the University of Cambridge, where David Sainsbury, also known as Baron Sainsbury of Turville, is the chancellor. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nord (Year of No Light) album was released on September 6, 2006.
+
+
+Correct sentence(s): 
+The release date of Nord, Year of No Light Album, is 06-09-2006.
+
+The Year of No Light album Nord was released on the date 2006-09-06.
+
+The album Nord was released on September 6, 2006. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nord (Year of No Light) album was released on September 6, 2006.
+
+
+Correct sentence(s): 
+The release date of Nord, Year of No Light Album, is 06-09-2006.
+
+The Year of No Light album Nord was released on the date 2006-09-06.
+
+The album Nord was released on September 6, 2006. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nord (Year of No Light) album was released on September 6, 2006.
+
+
+Correct sentence(s): 
+The release date of Nord, Year of No Light Album, is 06-09-2006.
+
+The Year of No Light album Nord was released on the date 2006-09-06.
+
+The album Nord was released on September 6, 2006. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Adolfo Suárez Madrid–Barajas Airport, with its runway length of 3500.0 meters, is located in Alcobendas, which is a city in Spain. This major Spanish airport is managed by ENAIRE, an operating organization in Spain, where the city of Madrid is located.
+
+
+Correct sentence(s): 
+Adolfo Suarez Madrid-Barajas Airport in Alcobendas, Spain, is operated by ENAIRE which is based in Madrid. The airport's runway length is 3500.
+
+The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE in Alcobendas in the city of Madrid, and Alcobendas is located in Spain. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3,500.
+
+ENAIRE in Madrid, is the operating organisation for Adolfo Suarez Madrid-Barajas airport which is in Alcobendas, Spain. The runway length at Adolfo Suarez Madrid-Barajas airport is 3500. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Adolfo Suárez Madrid–Barajas Airport, with its runway length of 3500.0 meters, is located in Alcobendas, which is a city in Spain. This major Spanish airport is managed by ENAIRE, an operating organization in Spain, where the city of Madrid is located.
+
+
+Correct sentence(s): 
+Adolfo Suarez Madrid-Barajas Airport in Alcobendas, Spain, is operated by ENAIRE which is based in Madrid. The airport's runway length is 3500.
+
+The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE in Alcobendas in the city of Madrid, and Alcobendas is located in Spain. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3,500.
+
+ENAIRE in Madrid, is the operating organisation for Adolfo Suarez Madrid-Barajas airport which is in Alcobendas, Spain. The runway length at Adolfo Suarez Madrid-Barajas airport is 3500. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Adolfo Suárez Madrid–Barajas Airport, with its runway length of 3500.0 meters, is located in Alcobendas, which is a city in Spain. This major Spanish airport is managed by ENAIRE, an operating organization in Spain, where the city of Madrid is located.
+
+
+Correct sentence(s): 
+Adolfo Suarez Madrid-Barajas Airport in Alcobendas, Spain, is operated by ENAIRE which is based in Madrid. The airport's runway length is 3500.
+
+The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE in Alcobendas in the city of Madrid, and Alcobendas is located in Spain. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3,500.
+
+ENAIRE in Madrid, is the operating organisation for Adolfo Suarez Madrid-Barajas airport which is in Alcobendas, Spain. The runway length at Adolfo Suarez Madrid-Barajas airport is 3500. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Nie Haisheng has the Shenzhou 10 mission and the Shenzhou 6 mission. Nie Haisheng has nationality as Peoples Republic of China.
+
+
+
+Correct sentence(s): 
+Nie Haisheng is from the People's Republic of China, and he was part of the mission Shenzhou 10, now took part in the Shenzhou 6 mission.
+
+Chinese national Nie Haisheng participated in Shenzhou 6 and Shenzhou 10.
+
+Nie Haisheng was part of Shenzhou 10 mission, took part in the Shenzhou 6 mission, and he is from the People's Republic of China. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Nie Haisheng has the Shenzhou 10 mission and the Shenzhou 6 mission. Nie Haisheng has nationality as Peoples Republic of China.
+
+
+
+Correct sentence(s): 
+Nie Haisheng is from the People's Republic of China, and he was part of the mission Shenzhou 10, now took part in the Shenzhou 6 mission.
+
+Chinese national Nie Haisheng participated in Shenzhou 6 and Shenzhou 10.
+
+Nie Haisheng was part of Shenzhou 10 mission, took part in the Shenzhou 6 mission, and he is from the People's Republic of China. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Nie Haisheng has the Shenzhou 10 mission and the Shenzhou 6 mission. Nie Haisheng has nationality as Peoples Republic of China.
+
+
+
+Correct sentence(s): 
+Nie Haisheng is from the People's Republic of China, and he was part of the mission Shenzhou 10, now took part in the Shenzhou 6 mission.
+
+Chinese national Nie Haisheng participated in Shenzhou 6 and Shenzhou 10.
+
+Nie Haisheng was part of Shenzhou 10 mission, took part in the Shenzhou 6 mission, and he is from the People's Republic of China. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Piotr Hallmann's height is 175.26 cm.
+
+
+Correct sentence(s): 
+Piotr Hallmann's height is 175.26 cm.
+
+Piotr Hallmann in 175.26 cm tall.
+
+Piotr Hallmann is 175.26 cm tall. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Piotr Hallmann's height is 175.26 cm.
+
+
+Correct sentence(s): 
+Piotr Hallmann's height is 175.26 cm.
+
+Piotr Hallmann in 175.26 cm tall.
+
+Piotr Hallmann is 175.26 cm tall. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Piotr Hallmann's height is 175.26 cm.
+
+
+Correct sentence(s): 
+Piotr Hallmann's height is 175.26 cm.
+
+Piotr Hallmann in 175.26 cm tall.
+
+Piotr Hallmann is 175.26 cm tall. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+1147 Stavropolis was discovered in 1929 by Grigory Neujmin. The apoapsis of 1147 Stavropolis is 418,476,000,000.0 kilometers. Its discovery date is 1929-06-11. It takes 20,378.5 Earth hours to complete a rotation period. The periapsis distance of 1147 Stavropolis is 260,855,000,000.0 kilometers.
+
+
+
+Correct sentence(s): 
+Grigory Neujmin discovered 1147 Stavropolis on June 11, 1929. 1147 Stavropolis has an apoapsis of 418476000000.0, a periapsis of 260855000000.0 and a rotation period of 20378.5.
+
+An asteroid 1147 Stavropolis was discovered on 11 June 1929 by Grigory Neujmin. It has the apoapsis of 418476000000.0 AU and the periapsis 260855000000.0 with a rotation period of 20378.5.
+
+1147 Stavropolis asteroid, discovered by Grigory Neujmin on the 11th of June 1929, has a rotation period of 20378.5. The periapsis of this asteroid is 260855000000 with an apoapsis of 418476000000.0. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+1147 Stavropolis was discovered in 1929 by Grigory Neujmin. The apoapsis of 1147 Stavropolis is 418,476,000,000.0 kilometers. Its discovery date is 1929-06-11. It takes 20,378.5 Earth hours to complete a rotation period. The periapsis distance of 1147 Stavropolis is 260,855,000,000.0 kilometers.
+
+
+
+Correct sentence(s): 
+Grigory Neujmin discovered 1147 Stavropolis on June 11, 1929. 1147 Stavropolis has an apoapsis of 418476000000.0, a periapsis of 260855000000.0 and a rotation period of 20378.5.
+
+An asteroid 1147 Stavropolis was discovered on 11 June 1929 by Grigory Neujmin. It has the apoapsis of 418476000000.0 AU and the periapsis 260855000000.0 with a rotation period of 20378.5.
+
+1147 Stavropolis asteroid, discovered by Grigory Neujmin on the 11th of June 1929, has a rotation period of 20378.5. The periapsis of this asteroid is 260855000000 with an apoapsis of 418476000000.0. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+1147 Stavropolis was discovered in 1929 by Grigory Neujmin. The apoapsis of 1147 Stavropolis is 418,476,000,000.0 kilometers. Its discovery date is 1929-06-11. It takes 20,378.5 Earth hours to complete a rotation period. The periapsis distance of 1147 Stavropolis is 260,855,000,000.0 kilometers.
+
+
+
+Correct sentence(s): 
+Grigory Neujmin discovered 1147 Stavropolis on June 11, 1929. 1147 Stavropolis has an apoapsis of 418476000000.0, a periapsis of 260855000000.0 and a rotation period of 20378.5.
+
+An asteroid 1147 Stavropolis was discovered on 11 June 1929 by Grigory Neujmin. It has the apoapsis of 418476000000.0 AU and the periapsis 260855000000.0 with a rotation period of 20378.5.
+
+1147 Stavropolis asteroid, discovered by Grigory Neujmin on the 11th of June 1929, has a rotation period of 20378.5. The periapsis of this asteroid is 260855000000 with an apoapsis of 418476000000.0. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+English Without Tears was originally released on July 28, 1944, with British screenwriter Terence Rattigan. The film has a runtime of 89.0 minutes. Directed by Alan Jaggs and featuring music composed by Nicholas Brodszky, this wartime cinematic story depicts poignant life and personal struggle against the backdrop of World War II.
+
+
+Correct sentence(s): 
+English Without Tears is an 89 minute movie written by Terence Rattigan and released on July 28th, 1944. Alan Jaggs was the editor while Nicholas Brodszky wrote the music for the film.
+
+On 1994-07-28,English Without Tears a 89 minutes long was released which is written by Terence Rattigan,done by Alan Jaggs and composed by Nicholas Brodszky.
+
+The film English Without Tears, written by Terence Rattigan, was released on 07-28-1944. Edited by Alan Jaggs, it has an 89 minute running time with music composed by Nicholas Brodszky.. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+English Without Tears was originally released on July 28, 1944, with British screenwriter Terence Rattigan. The film has a runtime of 89.0 minutes. Directed by Alan Jaggs and featuring music composed by Nicholas Brodszky, this wartime cinematic story depicts poignant life and personal struggle against the backdrop of World War II.
+
+
+Correct sentence(s): 
+English Without Tears is an 89 minute movie written by Terence Rattigan and released on July 28th, 1944. Alan Jaggs was the editor while Nicholas Brodszky wrote the music for the film.
+
+On 1994-07-28,English Without Tears a 89 minutes long was released which is written by Terence Rattigan,done by Alan Jaggs and composed by Nicholas Brodszky.
+
+The film English Without Tears, written by Terence Rattigan, was released on 07-28-1944. Edited by Alan Jaggs, it has an 89 minute running time with music composed by Nicholas Brodszky.. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+English Without Tears was originally released on July 28, 1944, with British screenwriter Terence Rattigan. The film has a runtime of 89.0 minutes. Directed by Alan Jaggs and featuring music composed by Nicholas Brodszky, this wartime cinematic story depicts poignant life and personal struggle against the backdrop of World War II.
+
+
+Correct sentence(s): 
+English Without Tears is an 89 minute movie written by Terence Rattigan and released on July 28th, 1944. Alan Jaggs was the editor while Nicholas Brodszky wrote the music for the film.
+
+On 1994-07-28,English Without Tears a 89 minutes long was released which is written by Terence Rattigan,done by Alan Jaggs and composed by Nicholas Brodszky.
+
+The film English Without Tears, written by Terence Rattigan, was released on 07-28-1944. Edited by Alan Jaggs, it has an 89 minute running time with music composed by Nicholas Brodszky.. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bootleg Series Volume 1: The Quine Tapes genre includes Rock music and preceded ""Squeeze The Velvet Underground"" which itself preceded Andy Warhols Velvet Underground Featuring Nico.
+
+
+Correct sentence(s): 
+The Quine Tapes are Rock music genre preceded by the album Squeeze, and Squeeze was preceded by the album Andy Warhol's Velvet Underground Featuring Nico.
+
+Bootleg Series Volume 1: The Quine Tapes's genre is rock, and is preceded by the Velvet Underground album Squeeze, which was preceded by the compilation album Andy Warhol's Velvet Underground Featuring Nico.
+
+The album Bootleg Series Volume 1: The Quine Tapes fits into the Rock music genre and was preceded by Squeeze by The Velvet Underground, which in turn was preceded by Andy Warhol's Velvet Underground Featuring Nico. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bootleg Series Volume 1: The Quine Tapes genre includes Rock music and preceded ""Squeeze The Velvet Underground"" which itself preceded Andy Warhols Velvet Underground Featuring Nico.
+
+
+Correct sentence(s): 
+The Quine Tapes are Rock music genre preceded by the album Squeeze, and Squeeze was preceded by the album Andy Warhol's Velvet Underground Featuring Nico.
+
+Bootleg Series Volume 1: The Quine Tapes's genre is rock, and is preceded by the Velvet Underground album Squeeze, which was preceded by the compilation album Andy Warhol's Velvet Underground Featuring Nico.
+
+The album Bootleg Series Volume 1: The Quine Tapes fits into the Rock music genre and was preceded by Squeeze by The Velvet Underground, which in turn was preceded by Andy Warhol's Velvet Underground Featuring Nico. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bootleg Series Volume 1: The Quine Tapes genre includes Rock music and preceded ""Squeeze The Velvet Underground"" which itself preceded Andy Warhols Velvet Underground Featuring Nico.
+
+
+Correct sentence(s): 
+The Quine Tapes are Rock music genre preceded by the album Squeeze, and Squeeze was preceded by the album Andy Warhol's Velvet Underground Featuring Nico.
+
+Bootleg Series Volume 1: The Quine Tapes's genre is rock, and is preceded by the Velvet Underground album Squeeze, which was preceded by the compilation album Andy Warhol's Velvet Underground Featuring Nico.
+
+The album Bootleg Series Volume 1: The Quine Tapes fits into the Rock music genre and was preceded by Squeeze by The Velvet Underground, which in turn was preceded by Andy Warhol's Velvet Underground Featuring Nico. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+John Mills has died in Denham, Buckinghamshire.
+
+
+Correct sentence(s): 
+The deathplace of John Mills was in Denham, Buckinghamshire. 
+
+John Mills died in Denham, Buckinghamshire. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+John Mills has died in Denham, Buckinghamshire.
+
+
+Correct sentence(s): 
+The deathplace of John Mills was in Denham, Buckinghamshire. 
+
+John Mills died in Denham, Buckinghamshire. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+John Mills has died in Denham, Buckinghamshire.
+
+
+Correct sentence(s): 
+The deathplace of John Mills was in Denham, Buckinghamshire. 
+
+John Mills died in Denham, Buckinghamshire. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nie Haisheng has the mission Shenzhou 10 and Shenzhou 6. He was born in Zaoyang, which is part of Hubei and Xiangyang.
+
+
+Correct sentence(s):
+Nie Haisheng was born in Zaoyang, Xiangyang, Hubei Province. He was a crew member on Shenzhou 6 and took part in the Shenzhou 10 mission.
+
+Nie Haisheng was born in Zaoyang, Hubei province and is part of Xiangyang. He ook part in the Shenzhou 6 mission and was a part of Shenzhou 10 mission.
+
+Nie Haisheng was born in Zaoyang, which is a part of Xiangyang and the Hubei province. Haisheng was apart of the Shenzhou 10 mission and also took part in the Shenzhou 6 mission. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nie Haisheng has the mission Shenzhou 10 and Shenzhou 6. He was born in Zaoyang, which is part of Hubei and Xiangyang.
+
+
+Correct sentence(s):
+Nie Haisheng was born in Zaoyang, Xiangyang, Hubei Province. He was a crew member on Shenzhou 6 and took part in the Shenzhou 10 mission.
+
+Nie Haisheng was born in Zaoyang, Hubei province and is part of Xiangyang. He ook part in the Shenzhou 6 mission and was a part of Shenzhou 10 mission.
+
+Nie Haisheng was born in Zaoyang, which is a part of Xiangyang and the Hubei province. Haisheng was apart of the Shenzhou 10 mission and also took part in the Shenzhou 6 mission. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nie Haisheng has the mission Shenzhou 10 and Shenzhou 6. He was born in Zaoyang, which is part of Hubei and Xiangyang.
+
+
+Correct sentence(s):
+Nie Haisheng was born in Zaoyang, Xiangyang, Hubei Province. He was a crew member on Shenzhou 6 and took part in the Shenzhou 10 mission.
+
+Nie Haisheng was born in Zaoyang, Hubei province and is part of Xiangyang. He ook part in the Shenzhou 6 mission and was a part of Shenzhou 10 mission.
+
+Nie Haisheng was born in Zaoyang, which is a part of Xiangyang and the Hubei province. Haisheng was apart of the Shenzhou 10 mission and also took part in the Shenzhou 6 mission. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+BBC Broadcasting House; Bananaman starring Bill Oddie is created by John Geering; Bananaman is broadcasted by BBC; Bananaman first aired on 1983-10-03.
+
+
+Correct sentence(s): 
+BBC broadcast Bananaman, a show created by John Geering and starring Bill Oddie. Broadcasting House is a location owned by the BBC, the channel that broadcasts this show which first aired on 10/03/83.
+
+The show Bananaman, starring Bill Oddie, was first broadcast on 10/03/83 by the BBC, whose headquarters are Broadcasting House. The character Bananaman was created by John Geering.
+
+Created by John Geering and first broadcast in 1983, Bananaman starred the actor Bill Oddie. It was broadcast by the London based Broadcasting House, known as the BBC. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+BBC Broadcasting House; Bananaman starring Bill Oddie is created by John Geering; Bananaman is broadcasted by BBC; Bananaman first aired on 1983-10-03.
+
+
+Correct sentence(s): 
+BBC broadcast Bananaman, a show created by John Geering and starring Bill Oddie. Broadcasting House is a location owned by the BBC, the channel that broadcasts this show which first aired on 10/03/83.
+
+The show Bananaman, starring Bill Oddie, was first broadcast on 10/03/83 by the BBC, whose headquarters are Broadcasting House. The character Bananaman was created by John Geering.
+
+Created by John Geering and first broadcast in 1983, Bananaman starred the actor Bill Oddie. It was broadcast by the London based Broadcasting House, known as the BBC. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+BBC Broadcasting House; Bananaman starring Bill Oddie is created by John Geering; Bananaman is broadcasted by BBC; Bananaman first aired on 1983-10-03.
+
+
+Correct sentence(s): 
+BBC broadcast Bananaman, a show created by John Geering and starring Bill Oddie. Broadcasting House is a location owned by the BBC, the channel that broadcasts this show which first aired on 10/03/83.
+
+The show Bananaman, starring Bill Oddie, was first broadcast on 10/03/83 by the BBC, whose headquarters are Broadcasting House. The character Bananaman was created by John Geering.
+
+Created by John Geering and first broadcast in 1983, Bananaman starred the actor Bill Oddie. It was broadcast by the London based Broadcasting House, known as the BBC. - The AI-generated sentence contains facts that are not present in the correct sentences."
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID37""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID3_2""}","{""ImportId"":""QID3_3""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID4_2""}","{""ImportId"":""QID4_3""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID5_3""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID6_2""}","{""ImportId"":""QID6_3""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID14_3""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID16_2""}","{""ImportId"":""QID16_3""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID17_2""}","{""ImportId"":""QID17_3""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID18_2""}","{""ImportId"":""QID18_3""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID19_2""}","{""ImportId"":""QID19_3""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID20_2""}","{""ImportId"":""QID20_3""}","{""ImportId"":""QID21_1""}","{""ImportId"":""QID21_2""}","{""ImportId"":""QID21_3""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID22_2""}","{""ImportId"":""QID22_3""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID23_2""}","{""ImportId"":""QID23_3""}","{""ImportId"":""QID24_1""}","{""ImportId"":""QID24_2""}","{""ImportId"":""QID24_3""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID25_2""}","{""ImportId"":""QID25_3""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_2""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_3""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID31_3""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID29_2""}","{""ImportId"":""QID29_3""}"
+2025-05-20 12:46:12,2025-05-20 12:47:19,IP Address,*******,100,66,True,2025-05-20 12:47:19,R_8NgM0ybI4rA5qnD,*******,*******,*******,*******,*******,*******,anonymous,EN,Yes,5,7,9,,,,,,,,,,,,,6,5,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-05-29 07:40:59,2025-05-29 07:52:53,IP Address,*******,100,713,True,2025-05-29 07:52:53,R_8Ka4huCoWg5O5HD,*******,*******,*******,*******,*******,*******,anonymous,EN,Yes,10,9,0,9,5,0,10,10,0,10,10,0,10,10,0,10,10,0,10,10,0,10,8,0,10,10,0,10,9,0,9,9,0,6,9,4,7,8,3,10,10,0,7,9,1,9,9,1,10,10,0,10,4,0,10,9,0,10,10,0,10,10,0,10,10,2,10,6,0,10,10,0,9,8,0,9,8,8,7,8,2,10,10,0,10,10,0,10,10,0
+2025-05-30 04:57:17,2025-05-30 05:07:52,IP Address,*******,100,634,True,2025-05-30 05:07:53,R_84q543oBspf5dwj,*******,*******,*******,*******,*******,*******,anonymous,EN,Yes,10,10,0,10,6,0,10,10,0,10,10,0,10,10,0,10,8,0,10,10,0,10,6,0,10,10,0,10,10,0,10,10,0,6,10,0,7,7,0,10,10,0,8,9,0,10,10,0,10,10,0,8,6,2,10,10,0,10,10,0,10,8,0,10,9,0,10,6,0,10,10,0,10,10,0,10,10,8,6,9,2,10,10,0,10,7,0,10,7,0

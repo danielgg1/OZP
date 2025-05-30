@@ -1,0 +1,1238 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q37,Q2_1,Q2_2,Q2_3,Q3_1,Q3_2,Q3_3,Q4_1,Q4_2,Q4_3,Q5_1,Q5_2,Q5_3,Q6_1,Q6_2,Q6_3,Q7_1,Q7_2,Q7_3,Q8_1,Q8_2,Q8_3,Q9_1,Q9_2,Q9_3,Q10_1,Q10_2,Q10_3,Q11_1,Q11_2,Q11_3,Q12_1,Q12_2,Q12_3,Q13_1,Q13_2,Q13_3,Q14_1,Q14_2,Q14_3,Q15_1,Q15_2,Q15_3,Q16_1,Q16_2,Q16_3,Q17_1,Q17_2,Q17_3,Q18_1,Q18_2,Q18_3,Q19_1,Q19_2,Q19_3,Q20_1,Q20_2,Q20_3,Q21_1,Q21_2,Q21_3,Q22_1,Q22_2,Q22_3,Q23_1,Q23_2,Q23_3,Q24_1,Q24_2,Q24_3,Q25_1,Q25_2,Q25_3,Q26_1,Q26_2,Q26_3,Q27_1,Q27_2,Q27_3,Q28_1,Q28_2,Q28_3,Q30_1,Q30_2,Q30_3,Q31_1,Q31_2,Q31_3,Q29_1,Q29_2,Q29_3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"By answering with ""yes"", you acknowledge:
+
+That your participation in this study is voluntary;
+That you are aware that you can withdraw your participation at any time.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Aaron Turner is a Post-metal artist from Boston who sings and is associated with the band Twilight (band).
+
+
+
+
+
+Correct sentence(s):
+Aaron Turner is a singer who was born in Boston. His music is post-metal, and he played with the band twilight.
+
+Aaron Turner, originally from Boston, sings for a living as a post-metal music performer with the band Twilight.
+
+Aaron Turner (originally from Boston) sings post-metal music for a living and played with the band Twilight. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Aaron Turner is a Post-metal artist from Boston who sings and is associated with the band Twilight (band).
+
+
+
+
+
+Correct sentence(s):
+Aaron Turner is a singer who was born in Boston. His music is post-metal, and he played with the band twilight.
+
+Aaron Turner, originally from Boston, sings for a living as a post-metal music performer with the band Twilight.
+
+Aaron Turner (originally from Boston) sings post-metal music for a living and played with the band Twilight. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Aaron Turner is a Post-metal artist from Boston who sings and is associated with the band Twilight (band).
+
+
+
+
+
+Correct sentence(s):
+Aaron Turner is a singer who was born in Boston. His music is post-metal, and he played with the band twilight.
+
+Aaron Turner, originally from Boston, sings for a living as a post-metal music performer with the band Twilight.
+
+Aaron Turner (originally from Boston) sings post-metal music for a living and played with the band Twilight. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+""Mermaid (Train song)"" is a Reggae genre song. It is followed by ""Imagine"" (John Lennon song). The producer of ""Mermaid (Train song)"" is Espionage (production team). It is part of the album ""California 37"" (Train album). The format of ""Mermaid (Train song)"" is Music download.
+
+
+Correct sentence(s): 
+Produced by the Espionage production team and now available in digital format, Mermaid is a reggae inspired song on Train's ""California 37"" album. Train followed up Mermaid with the John Lennon song Imagine.
+
+The reggae song Mermaid is included in the album California 37 by Train. The song was produced by Espionage and is distributed digitally. Train followed Mermaid with their cover of the John Lennon song Imagine.
+
+Followed by the release of Imagine by John Lennon, the song Mermaid on Train's California 37 album is a digitally distributed reggae song produced by the product team Espionage. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+""Mermaid (Train song)"" is a Reggae genre song. It is followed by ""Imagine"" (John Lennon song). The producer of ""Mermaid (Train song)"" is Espionage (production team). It is part of the album ""California 37"" (Train album). The format of ""Mermaid (Train song)"" is Music download.
+
+
+Correct sentence(s): 
+Produced by the Espionage production team and now available in digital format, Mermaid is a reggae inspired song on Train's ""California 37"" album. Train followed up Mermaid with the John Lennon song Imagine.
+
+The reggae song Mermaid is included in the album California 37 by Train. The song was produced by Espionage and is distributed digitally. Train followed Mermaid with their cover of the John Lennon song Imagine.
+
+Followed by the release of Imagine by John Lennon, the song Mermaid on Train's California 37 album is a digitally distributed reggae song produced by the product team Espionage. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+""Mermaid (Train song)"" is a Reggae genre song. It is followed by ""Imagine"" (John Lennon song). The producer of ""Mermaid (Train song)"" is Espionage (production team). It is part of the album ""California 37"" (Train album). The format of ""Mermaid (Train song)"" is Music download.
+
+
+Correct sentence(s): 
+Produced by the Espionage production team and now available in digital format, Mermaid is a reggae inspired song on Train's ""California 37"" album. Train followed up Mermaid with the John Lennon song Imagine.
+
+The reggae song Mermaid is included in the album California 37 by Train. The song was produced by Espionage and is distributed digitally. Train followed Mermaid with their cover of the John Lennon song Imagine.
+
+Followed by the release of Imagine by John Lennon, the song Mermaid on Train's California 37 album is a digitally distributed reggae song produced by the product team Espionage. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Brandon Carter was born on January 1, 1942, and he attended the University of Cambridge.
+
+
+Correct sentence(s): 
+Brandon Carter, who was born on January 1st, 1942, is a graduate from the University of Cambridge.
+
+Brandon Carter was born January 1, 1942, and attended the University of Cambridge.
+
+Brandon Carter, born on 01-01-1942, is a University of Cambridge alumnus. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Brandon Carter was born on January 1, 1942, and he attended the University of Cambridge.
+
+
+Correct sentence(s): 
+Brandon Carter, who was born on January 1st, 1942, is a graduate from the University of Cambridge.
+
+Brandon Carter was born January 1, 1942, and attended the University of Cambridge.
+
+Brandon Carter, born on 01-01-1942, is a University of Cambridge alumnus. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Brandon Carter was born on January 1, 1942, and he attended the University of Cambridge.
+
+
+Correct sentence(s): 
+Brandon Carter, who was born on January 1st, 1942, is a graduate from the University of Cambridge.
+
+Brandon Carter was born January 1, 1942, and attended the University of Cambridge.
+
+Brandon Carter, born on 01-01-1942, is a University of Cambridge alumnus. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bootleg Series Volume 1: The Quine Tapes has producer The Velvet Underground and genre Rock music. The Velvet Underground has genre Proto-punk.
+
+
+Correct sentence(s): 
+The rock album ""Bootleg Series Volume 1: The Quine Tapes"" was produced by proto-punk band The Velvet Underground.
+
+The Bootleg Series Volume I: The Quine tapes is a rock album, by the proto-punk band, The Velvet Underground.
+
+Bootleg Series Volume 1: The Quine Tapes is a rock album that also fits into the proto-punk genre. It was produced by the Velvet Underground. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bootleg Series Volume 1: The Quine Tapes has producer The Velvet Underground and genre Rock music. The Velvet Underground has genre Proto-punk.
+
+
+Correct sentence(s): 
+The rock album ""Bootleg Series Volume 1: The Quine Tapes"" was produced by proto-punk band The Velvet Underground.
+
+The Bootleg Series Volume I: The Quine tapes is a rock album, by the proto-punk band, The Velvet Underground.
+
+Bootleg Series Volume 1: The Quine Tapes is a rock album that also fits into the proto-punk genre. It was produced by the Velvet Underground. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bootleg Series Volume 1: The Quine Tapes has producer The Velvet Underground and genre Rock music. The Velvet Underground has genre Proto-punk.
+
+
+Correct sentence(s): 
+The rock album ""Bootleg Series Volume 1: The Quine Tapes"" was produced by proto-punk band The Velvet Underground.
+
+The Bootleg Series Volume I: The Quine tapes is a rock album, by the proto-punk band, The Velvet Underground.
+
+Bootleg Series Volume 1: The Quine Tapes is a rock album that also fits into the proto-punk genre. It was produced by the Velvet Underground. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The 11th Mississippi Infantry Monument, established in 2000, is located in Gettysburg, Pennsylvania, Adams County, Pennsylvania. Adams County, Pennsylvania is situated to the southwest of Frederick County, Maryland, and to the southeast of Carroll County, Maryland. The monument is categorized as a contributing property in the United States.
+
+
+Correct sentence(s): 
+The 11th Mississippi Infantry Monument is not in Mississippi, as one might expect, but rather in Gettysburg, Pennsylvania. Part of Adams County in the U.S. state of Pennsylvania, this location is near the Maryland counties of Frederick, to the southwest, and Carroll, to the southeast. The monument was established in 2000 and is categorized as a Contributing Property.
+
+Erected in 2000, the monument to the 11th Mississippi infantry is a contributing property based in the US, in Adams County, Pennsylvania, in the municipality of Gettysburg. Southwest of this is Frederick County, Maryland and Southeast is Carroll County.
+
+The 11th Mississippi Infantry Monument (established in 2000) is in the municipality of Gettysburg, Adams County in Pennsylvania which is located in the southwest to the Frederick County and southeast to the Carroll Country, Maryland. It falls under the category of Contributing property of the United States. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The 11th Mississippi Infantry Monument, established in 2000, is located in Gettysburg, Pennsylvania, Adams County, Pennsylvania. Adams County, Pennsylvania is situated to the southwest of Frederick County, Maryland, and to the southeast of Carroll County, Maryland. The monument is categorized as a contributing property in the United States.
+
+
+Correct sentence(s): 
+The 11th Mississippi Infantry Monument is not in Mississippi, as one might expect, but rather in Gettysburg, Pennsylvania. Part of Adams County in the U.S. state of Pennsylvania, this location is near the Maryland counties of Frederick, to the southwest, and Carroll, to the southeast. The monument was established in 2000 and is categorized as a Contributing Property.
+
+Erected in 2000, the monument to the 11th Mississippi infantry is a contributing property based in the US, in Adams County, Pennsylvania, in the municipality of Gettysburg. Southwest of this is Frederick County, Maryland and Southeast is Carroll County.
+
+The 11th Mississippi Infantry Monument (established in 2000) is in the municipality of Gettysburg, Adams County in Pennsylvania which is located in the southwest to the Frederick County and southeast to the Carroll Country, Maryland. It falls under the category of Contributing property of the United States. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The 11th Mississippi Infantry Monument, established in 2000, is located in Gettysburg, Pennsylvania, Adams County, Pennsylvania. Adams County, Pennsylvania is situated to the southwest of Frederick County, Maryland, and to the southeast of Carroll County, Maryland. The monument is categorized as a contributing property in the United States.
+
+
+Correct sentence(s): 
+The 11th Mississippi Infantry Monument is not in Mississippi, as one might expect, but rather in Gettysburg, Pennsylvania. Part of Adams County in the U.S. state of Pennsylvania, this location is near the Maryland counties of Frederick, to the southwest, and Carroll, to the southeast. The monument was established in 2000 and is categorized as a Contributing Property.
+
+Erected in 2000, the monument to the 11th Mississippi infantry is a contributing property based in the US, in Adams County, Pennsylvania, in the municipality of Gettysburg. Southwest of this is Frederick County, Maryland and Southeast is Carroll County.
+
+The 11th Mississippi Infantry Monument (established in 2000) is in the municipality of Gettysburg, Adams County in Pennsylvania which is located in the southwest to the Frederick County and southeast to the Carroll Country, Maryland. It falls under the category of Contributing property of the United States. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mexico has currency Mexican peso. Mexico has demonym Mexicans. Bionico has course Dessert. Bionico has ingredient Condensed milk. Bionico has country Mexico.
+
+
+Correct sentence(s): 
+Bionico (a dish served for dessert) is a food made with condensed milk found in Mexico. Mexicans are people in Mexico, the currency in Mexico is the Mexican peso.
+
+Bionico (is a dessert) is a food made with condensed milk found in Mexico. The currency in Mexico is the Mexican peso inhabited by Mexicans.
+
+Bionico (served at the dessert course) is a food made with condensed milk found in Mexico. The currency in Mexico is the peso inhabited by the Mexicans. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mexico has currency Mexican peso. Mexico has demonym Mexicans. Bionico has course Dessert. Bionico has ingredient Condensed milk. Bionico has country Mexico.
+
+
+Correct sentence(s): 
+Bionico (a dish served for dessert) is a food made with condensed milk found in Mexico. Mexicans are people in Mexico, the currency in Mexico is the Mexican peso.
+
+Bionico (is a dessert) is a food made with condensed milk found in Mexico. The currency in Mexico is the Mexican peso inhabited by Mexicans.
+
+Bionico (served at the dessert course) is a food made with condensed milk found in Mexico. The currency in Mexico is the peso inhabited by the Mexicans. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Mexico has currency Mexican peso. Mexico has demonym Mexicans. Bionico has course Dessert. Bionico has ingredient Condensed milk. Bionico has country Mexico.
+
+
+Correct sentence(s): 
+Bionico (a dish served for dessert) is a food made with condensed milk found in Mexico. Mexicans are people in Mexico, the currency in Mexico is the Mexican peso.
+
+Bionico (is a dessert) is a food made with condensed milk found in Mexico. The currency in Mexico is the Mexican peso inhabited by Mexicans.
+
+Bionico (served at the dessert course) is a food made with condensed milk found in Mexico. The currency in Mexico is the peso inhabited by the Mexicans. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bionico has a dish variation called Honey from Mexico.
+
+
+Correct sentence(s): 
+Honey can be added to bionico, which is a food found in Mexico.
+
+Bionico is a Mexico food in which honey is used as a variation.
+
+Honey can be used as a variation in the dish Bionico found in Mexico. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bionico has a dish variation called Honey from Mexico.
+
+
+Correct sentence(s): 
+Honey can be added to bionico, which is a food found in Mexico.
+
+Bionico is a Mexico food in which honey is used as a variation.
+
+Honey can be used as a variation in the dish Bionico found in Mexico. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Bionico has a dish variation called Honey from Mexico.
+
+
+Correct sentence(s): 
+Honey can be added to bionico, which is a food found in Mexico.
+
+Bionico is a Mexico food in which honey is used as a variation.
+
+Honey can be used as a variation in the dish Bionico found in Mexico. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm is directed by Tom Simon, produced by Tom Simon, broadcasted by HBO, and features music composed by Jamie Lawrence.
+
+
+Correct sentence(s): 
+Death on a Factory Farm is a HBO film produced and directed by Tom Simon. Jamie Lawrence wrote the music.
+
+HBO broadcasted film, Death on a Factory Farm, was directed and produced by Tom Simon. Jamie Lawrence composed the music.
+
+Tom Simon is the director and producer of the film 'Death on a Factory Farm', which broadcast on HBO and featured Jamie Lawrence as the music composer. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm is directed by Tom Simon, produced by Tom Simon, broadcasted by HBO, and features music composed by Jamie Lawrence.
+
+
+Correct sentence(s): 
+Death on a Factory Farm is a HBO film produced and directed by Tom Simon. Jamie Lawrence wrote the music.
+
+HBO broadcasted film, Death on a Factory Farm, was directed and produced by Tom Simon. Jamie Lawrence composed the music.
+
+Tom Simon is the director and producer of the film 'Death on a Factory Farm', which broadcast on HBO and featured Jamie Lawrence as the music composer. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm is directed by Tom Simon, produced by Tom Simon, broadcasted by HBO, and features music composed by Jamie Lawrence.
+
+
+Correct sentence(s): 
+Death on a Factory Farm is a HBO film produced and directed by Tom Simon. Jamie Lawrence wrote the music.
+
+HBO broadcasted film, Death on a Factory Farm, was directed and produced by Tom Simon. Jamie Lawrence composed the music.
+
+Tom Simon is the director and producer of the film 'Death on a Factory Farm', which broadcast on HBO and featured Jamie Lawrence as the music composer. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Detroit is part of Michigan.
+
+
+Correct sentence(s): 
+Detroit is part of Michigan.
+
+The city of Detroit is located in Michigan.
+
+The city of Detroit is part of Michigan. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Detroit is part of Michigan.
+
+
+Correct sentence(s): 
+Detroit is part of Michigan.
+
+The city of Detroit is located in Michigan.
+
+The city of Detroit is part of Michigan. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Detroit is part of Michigan.
+
+
+Correct sentence(s): 
+Detroit is part of Michigan.
+
+The city of Detroit is located in Michigan.
+
+The city of Detroit is part of Michigan. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm has musicComposer Jamie Lawrence. Jamie Lawrence has club Brentford F.C..
+
+
+Correct sentence(s): 
+A person named Jamie Lawrence is a member of the Brentford F.C. while someone with the same name was the composer for ""Death on a Factory Farm"" music.
+
+Jamie Lawrence, who played for Brentford F.C., wrote the music for the film 'Death on a Factory Farm'.
+
+Jamie Lawrence, who composed Death on a Factory Farm also played in the club Brentford F.C. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm has musicComposer Jamie Lawrence. Jamie Lawrence has club Brentford F.C..
+
+
+Correct sentence(s): 
+A person named Jamie Lawrence is a member of the Brentford F.C. while someone with the same name was the composer for ""Death on a Factory Farm"" music.
+
+Jamie Lawrence, who played for Brentford F.C., wrote the music for the film 'Death on a Factory Farm'.
+
+Jamie Lawrence, who composed Death on a Factory Farm also played in the club Brentford F.C. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm has musicComposer Jamie Lawrence. Jamie Lawrence has club Brentford F.C..
+
+
+Correct sentence(s): 
+A person named Jamie Lawrence is a member of the Brentford F.C. while someone with the same name was the composer for ""Death on a Factory Farm"" music.
+
+Jamie Lawrence, who played for Brentford F.C., wrote the music for the film 'Death on a Factory Farm'.
+
+Jamie Lawrence, who composed Death on a Factory Farm also played in the club Brentford F.C. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Ciudad Ayala has a population density of 1604.0 and an elevation above sea level of 1147.0.
+
+
+Correct sentence(s): 
+The population density of Ciudad Ayala is 1604.0 with a elevation above the sea level for Ciudad Ayala is 1147.0.
+
+Ciudad Ayala has a population density of 1604.0 have a elevation above the sea level is 1147.0.
+
+Ciudad Ayala with population density of 1604 is 1147m above sea level. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Ciudad Ayala has a population density of 1604.0 and an elevation above sea level of 1147.0.
+
+
+Correct sentence(s): 
+The population density of Ciudad Ayala is 1604.0 with a elevation above the sea level for Ciudad Ayala is 1147.0.
+
+Ciudad Ayala has a population density of 1604.0 have a elevation above the sea level is 1147.0.
+
+Ciudad Ayala with population density of 1604 is 1147m above sea level. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Ciudad Ayala has a population density of 1604.0 and an elevation above sea level of 1147.0.
+
+
+Correct sentence(s): 
+The population density of Ciudad Ayala is 1604.0 with a elevation above the sea level for Ciudad Ayala is 1147.0.
+
+Ciudad Ayala has a population density of 1604.0 have a elevation above the sea level is 1147.0.
+
+Ciudad Ayala with population density of 1604 is 1147m above sea level. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+BBC has city Broadcasting House and Bananaman, which stars Bill Oddie, has been broadcasted by BBC.
+
+
+Correct sentence(s): 
+Bill Oddie stars in a BBC programme called Bananaman. the BBC are based at Broadcasting House in London.
+
+Bill Oddie starred in Bananaman which was broadcast by the BBC who are based in the Broadcasting House, London.
+
+Bananaman the TV series starred by Bill Oddie was shown on the BBC and the BBC headquarters is called Broadcasting House. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+BBC has city Broadcasting House and Bananaman, which stars Bill Oddie, has been broadcasted by BBC.
+
+
+Correct sentence(s): 
+Bill Oddie stars in a BBC programme called Bananaman. the BBC are based at Broadcasting House in London.
+
+Bill Oddie starred in Bananaman which was broadcast by the BBC who are based in the Broadcasting House, London.
+
+Bananaman the TV series starred by Bill Oddie was shown on the BBC and the BBC headquarters is called Broadcasting House. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+BBC has city Broadcasting House and Bananaman, which stars Bill Oddie, has been broadcasted by BBC.
+
+
+Correct sentence(s): 
+Bill Oddie stars in a BBC programme called Bananaman. the BBC are based at Broadcasting House in London.
+
+Bill Oddie starred in Bananaman which was broadcast by the BBC who are based in the Broadcasting House, London.
+
+Bananaman the TV series starred by Bill Oddie was shown on the BBC and the BBC headquarters is called Broadcasting House. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Arapiraquense is an athletic association that participated in the 2015 season of the Brazilian Championship Series C. The association has approximately 17,000 members.
+
+
+Correct sentence(s): 
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, they were in Campeonato Brasileiro Serie C in 2015 and has 17000 members.
+
+Agremiação Sportiva Arapiraquense has 17000 members, plays in the Campeonato Brasileiro Série C league and competed in the 2015 Campeonato Brasileiro Série C.
+
+Agremiação Sportiva Arapiraquense have 17000 members, play in the Campeonato Brasileiro Série C league and competed there in 2015. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Arapiraquense is an athletic association that participated in the 2015 season of the Brazilian Championship Series C. The association has approximately 17,000 members.
+
+
+Correct sentence(s): 
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, they were in Campeonato Brasileiro Serie C in 2015 and has 17000 members.
+
+Agremiação Sportiva Arapiraquense has 17000 members, plays in the Campeonato Brasileiro Série C league and competed in the 2015 Campeonato Brasileiro Série C.
+
+Agremiação Sportiva Arapiraquense have 17000 members, play in the Campeonato Brasileiro Série C league and competed there in 2015. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Arapiraquense is an athletic association that participated in the 2015 season of the Brazilian Championship Series C. The association has approximately 17,000 members.
+
+
+Correct sentence(s): 
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, they were in Campeonato Brasileiro Serie C in 2015 and has 17000 members.
+
+Agremiação Sportiva Arapiraquense has 17000 members, plays in the Campeonato Brasileiro Série C league and competed in the 2015 Campeonato Brasileiro Série C.
+
+Agremiação Sportiva Arapiraquense have 17000 members, play in the Campeonato Brasileiro Série C league and competed there in 2015. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Bionico originates from Mexico and offers a dish variation called Cottage cheese.
+
+
+
+Correct sentence(s): 
+Bionico, a food found in Mexico, can be varied by using cottage cheese.
+
+Bionico, a food found in Mexico, can be varied using cottage cheese.
+
+Bionico can be varied by using cottage cheese found in Mexico. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Bionico originates from Mexico and offers a dish variation called Cottage cheese.
+
+
+
+Correct sentence(s): 
+Bionico, a food found in Mexico, can be varied by using cottage cheese.
+
+Bionico, a food found in Mexico, can be varied using cottage cheese.
+
+Bionico can be varied by using cottage cheese found in Mexico. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Bionico originates from Mexico and offers a dish variation called Cottage cheese.
+
+
+
+Correct sentence(s): 
+Bionico, a food found in Mexico, can be varied by using cottage cheese.
+
+Bionico, a food found in Mexico, can be varied using cottage cheese.
+
+Bionico can be varied by using cottage cheese found in Mexico. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Lady Anne Monson was born in Darlington. She was born on January 1, 1726. Her nationality is Kingdom of England.
+
+
+Correct sentence(s): 
+Born in Darlington on January 1st, 1726, Lady Anne Monson lived in the Kingdom of England holding British nationality.
+
+Lady Anne Monson was born in Darlington, in the Kingdom of England on 1/1/1726.
+
+Lady Anne Monson (born in Darlington) on January 1, 1726 is English. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Lady Anne Monson was born in Darlington. She was born on January 1, 1726. Her nationality is Kingdom of England.
+
+
+Correct sentence(s): 
+Born in Darlington on January 1st, 1726, Lady Anne Monson lived in the Kingdom of England holding British nationality.
+
+Lady Anne Monson was born in Darlington, in the Kingdom of England on 1/1/1726.
+
+Lady Anne Monson (born in Darlington) on January 1, 1726 is English. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Lady Anne Monson was born in Darlington. She was born on January 1, 1726. Her nationality is Kingdom of England.
+
+
+Correct sentence(s): 
+Born in Darlington on January 1st, 1726, Lady Anne Monson lived in the Kingdom of England holding British nationality.
+
+Lady Anne Monson was born in Darlington, in the Kingdom of England on 1/1/1726.
+
+Lady Anne Monson (born in Darlington) on January 1, 1726 is English. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The Velvet Underground album Squeeze was produced by The Velvet Underground.
+
+
+Correct sentence(s): 
+Squeeze is an album produced by the Velvet Underground.
+
+The album Squeeze is produced by the Velvet Underground. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The Velvet Underground album Squeeze was produced by The Velvet Underground.
+
+
+Correct sentence(s): 
+Squeeze is an album produced by the Velvet Underground.
+
+The album Squeeze is produced by the Velvet Underground. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The Velvet Underground album Squeeze was produced by The Velvet Underground.
+
+
+Correct sentence(s): 
+Squeeze is an album produced by the Velvet Underground.
+
+The album Squeeze is produced by the Velvet Underground. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva attended Humboldt University. 
+
+
+Correct sentence(s): 
+Humboldt University is Darinka Dentcheva's alma mater.
+
+Humboldt University is the alma mater of Darinka Dentcheva.
+
+Darinka Dentcheva's alma mater is Humboldt University. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva attended Humboldt University. 
+
+
+Correct sentence(s): 
+Humboldt University is Darinka Dentcheva's alma mater.
+
+Humboldt University is the alma mater of Darinka Dentcheva.
+
+Darinka Dentcheva's alma mater is Humboldt University. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva attended Humboldt University. 
+
+
+Correct sentence(s): 
+Humboldt University is Darinka Dentcheva's alma mater.
+
+Humboldt University is the alma mater of Darinka Dentcheva.
+
+Darinka Dentcheva's alma mater is Humboldt University. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm is a music composition by Jamie Lawrence. Jamie Lawrence is the coach of Ashford Town (Middlesex) F.C. The documentary Death on a Factory Farm was broadcasted by HBO. HBO has additional channels such as HBO East and HBO West.
+
+
+Correct sentence(s): 
+Death on a Factory Farm’ introduces music written by Jamie Lawrence, who also played for Ashford Town, F.C. The movie was broadcast on HBO. HBO East and HBO west are the channel’s unique timeshift services.
+
+Jamie Lawrence composed the music for the film Death on a Factory Farm, which was broadcast by HBO (the timeshift channel of which is split into HBO East and HBO West). Jamie Lawrence also played football with Ashford Town (Middlesex) F.C.
+
+""Death on a Factory Farm"", which is broadcast on HBO, had its music composed by Jamie Lawrence, who also played on the Ashford Town (Middlesex) F.C. team. HBO has timeshift channels called HBO West and HBO East. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm is a music composition by Jamie Lawrence. Jamie Lawrence is the coach of Ashford Town (Middlesex) F.C. The documentary Death on a Factory Farm was broadcasted by HBO. HBO has additional channels such as HBO East and HBO West.
+
+
+Correct sentence(s): 
+Death on a Factory Farm’ introduces music written by Jamie Lawrence, who also played for Ashford Town, F.C. The movie was broadcast on HBO. HBO East and HBO west are the channel’s unique timeshift services.
+
+Jamie Lawrence composed the music for the film Death on a Factory Farm, which was broadcast by HBO (the timeshift channel of which is split into HBO East and HBO West). Jamie Lawrence also played football with Ashford Town (Middlesex) F.C.
+
+""Death on a Factory Farm"", which is broadcast on HBO, had its music composed by Jamie Lawrence, who also played on the Ashford Town (Middlesex) F.C. team. HBO has timeshift channels called HBO West and HBO East. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Death on a Factory Farm is a music composition by Jamie Lawrence. Jamie Lawrence is the coach of Ashford Town (Middlesex) F.C. The documentary Death on a Factory Farm was broadcasted by HBO. HBO has additional channels such as HBO East and HBO West.
+
+
+Correct sentence(s): 
+Death on a Factory Farm’ introduces music written by Jamie Lawrence, who also played for Ashford Town, F.C. The movie was broadcast on HBO. HBO East and HBO west are the channel’s unique timeshift services.
+
+Jamie Lawrence composed the music for the film Death on a Factory Farm, which was broadcast by HBO (the timeshift channel of which is split into HBO East and HBO West). Jamie Lawrence also played football with Ashford Town (Middlesex) F.C.
+
+""Death on a Factory Farm"", which is broadcast on HBO, had its music composed by Jamie Lawrence, who also played on the Ashford Town (Middlesex) F.C. team. HBO has timeshift channels called HBO West and HBO East. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy in France has a total of 9400 postgraduate students.
+
+
+Correct sentence(s): 
+There are 9400 postgraduate students attending the University of Burgundy in France.
+
+The University of Burgundy in France has 9400 postgraduate students.
+
+The University of Burgundy in France has 9400 post-graduate students. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy in France has a total of 9400 postgraduate students.
+
+
+Correct sentence(s): 
+There are 9400 postgraduate students attending the University of Burgundy in France.
+
+The University of Burgundy in France has 9400 postgraduate students.
+
+The University of Burgundy in France has 9400 post-graduate students. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy in France has a total of 9400 postgraduate students.
+
+
+Correct sentence(s): 
+There are 9400 postgraduate students attending the University of Burgundy in France.
+
+The University of Burgundy in France has 9400 postgraduate students.
+
+The University of Burgundy in France has 9400 post-graduate students. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+English Without Tears is a work written by Anatole de Grunwald, and it has a runtime of 89.0.
+
+
+Correct sentence(s): 
+""English Without Tears"", which was written by Anatole de Grunwald, has a running time of 89 minutes.
+
+Anatole de Grunwald wrote the film English without Tears which has a running time of 89 minutes.
+
+Written by Anatole de Grunwald, the film English Without Tears is 89 minutes in duration. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+English Without Tears is a work written by Anatole de Grunwald, and it has a runtime of 89.0.
+
+
+Correct sentence(s): 
+""English Without Tears"", which was written by Anatole de Grunwald, has a running time of 89 minutes.
+
+Anatole de Grunwald wrote the film English without Tears which has a running time of 89 minutes.
+
+Written by Anatole de Grunwald, the film English Without Tears is 89 minutes in duration. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+English Without Tears is a work written by Anatole de Grunwald, and it has a runtime of 89.0.
+
+
+Correct sentence(s): 
+""English Without Tears"", which was written by Anatole de Grunwald, has a running time of 89 minutes.
+
+Anatole de Grunwald wrote the film English without Tears which has a running time of 89 minutes.
+
+Written by Anatole de Grunwald, the film English Without Tears is 89 minutes in duration. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Super Capers, edited by Stacy Katzman, stars Michael Rooker and Tom Sizemore.
+
+
+Correct sentence(s): 
+Both Michael Rooker and Tom Sizemore starred in Super Capers which was edited by Stacy Katzman.
+
+The film Super Capers starred Tom Sizemore and Michael Rooker and was edited by Stacy Katzman.
+
+Stacy Katzman edited Super Capers starring Michael Rooker and Tom Sizemore. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Super Capers, edited by Stacy Katzman, stars Michael Rooker and Tom Sizemore.
+
+
+Correct sentence(s): 
+Both Michael Rooker and Tom Sizemore starred in Super Capers which was edited by Stacy Katzman.
+
+The film Super Capers starred Tom Sizemore and Michael Rooker and was edited by Stacy Katzman.
+
+Stacy Katzman edited Super Capers starring Michael Rooker and Tom Sizemore. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Super Capers, edited by Stacy Katzman, stars Michael Rooker and Tom Sizemore.
+
+
+Correct sentence(s): 
+Both Michael Rooker and Tom Sizemore starred in Super Capers which was edited by Stacy Katzman.
+
+The film Super Capers starred Tom Sizemore and Michael Rooker and was edited by Stacy Katzman.
+
+Stacy Katzman edited Super Capers starring Michael Rooker and Tom Sizemore. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Expect a Miracle runs for 54 minutes and 33 seconds. It is categorized under musical works focused on instruments and it can also be considered easy listening. It embraces genres such as instrumental music and easy listening.
+
+
+Correct sentence(s): 
+Expect a Miracle in the instrumental music genre, an easy listening album lasts 54.56 minutes.
+
+Expect a Miracle, instrumental music of the easy listening genre, has a runtime of 54.56.
+
+Expect a miracle is of the easy listening genre of instrumental music genre which has a run time of 54:56. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Expect a Miracle runs for 54 minutes and 33 seconds. It is categorized under musical works focused on instruments and it can also be considered easy listening. It embraces genres such as instrumental music and easy listening.
+
+
+Correct sentence(s): 
+Expect a Miracle in the instrumental music genre, an easy listening album lasts 54.56 minutes.
+
+Expect a Miracle, instrumental music of the easy listening genre, has a runtime of 54.56.
+
+Expect a miracle is of the easy listening genre of instrumental music genre which has a run time of 54:56. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Expect a Miracle runs for 54 minutes and 33 seconds. It is categorized under musical works focused on instruments and it can also be considered easy listening. It embraces genres such as instrumental music and easy listening.
+
+
+Correct sentence(s): 
+Expect a Miracle in the instrumental music genre, an easy listening album lasts 54.56 minutes.
+
+Expect a Miracle, instrumental music of the easy listening genre, has a runtime of 54.56.
+
+Expect a miracle is of the easy listening genre of instrumental music genre which has a run time of 54:56. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Olga Bondareva was born on April 27, 1937.
+
+
+
+Correct sentence(s): 
+Olga Bondareva was born on April 27, 1937.
+
+Olga Bondareva's date of birth is April 27, 1937. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Olga Bondareva was born on April 27, 1937.
+
+
+
+Correct sentence(s): 
+Olga Bondareva was born on April 27, 1937.
+
+Olga Bondareva's date of birth is April 27, 1937. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Olga Bondareva was born on April 27, 1937.
+
+
+
+Correct sentence(s): 
+Olga Bondareva was born on April 27, 1937.
+
+Olga Bondareva's date of birth is April 27, 1937. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva is an expert in stochastic programming. She holds a degree from the Humboldt University. She resides in New Jersey.
+
+
+Correct sentence(s): 
+Darinka Dentcheva is known for her work with stochastic programming where she has a residence in the state of New Jersey and her alma mater is Humboldt University.
+
+Darinka Dentcheva, a graduate of Humboldt University, is known for her work with stochastic programming and currently resides in New Jersey.
+
+Humboldt University is the alma mater of Darinka Dentcheva who resides in New Jersey and is known for Stochastic programming. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva is an expert in stochastic programming. She holds a degree from the Humboldt University. She resides in New Jersey.
+
+
+Correct sentence(s): 
+Darinka Dentcheva is known for her work with stochastic programming where she has a residence in the state of New Jersey and her alma mater is Humboldt University.
+
+Darinka Dentcheva, a graduate of Humboldt University, is known for her work with stochastic programming and currently resides in New Jersey.
+
+Humboldt University is the alma mater of Darinka Dentcheva who resides in New Jersey and is known for Stochastic programming. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Darinka Dentcheva is an expert in stochastic programming. She holds a degree from the Humboldt University. She resides in New Jersey.
+
+
+Correct sentence(s): 
+Darinka Dentcheva is known for her work with stochastic programming where she has a residence in the state of New Jersey and her alma mater is Humboldt University.
+
+Darinka Dentcheva, a graduate of Humboldt University, is known for her work with stochastic programming and currently resides in New Jersey.
+
+Humboldt University is the alma mater of Darinka Dentcheva who resides in New Jersey and is known for Stochastic programming. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The Two Towers has followed by The Fellowship of the Ring. The Hobbit has literary genres Juvenile fantasy and High fantasy. The Fellowship of the Ring was written by J. R. R. Tolkien and precedes Other works.
+
+
+
+Correct sentence(s): 
+The Fellowship of the Ring was written by J.R.R Tolkien. The Two Towers is the sequel to it. It was preceded by the Hobbit. The Hobbit's genre is juvenile fantasy and literary genre is high fantasy.
+
+The Hobbit, which came before The Fellowship of the Ring, falls into the genres of high fantasy and juvenile fantasy. The Fellowship of the Ring, which was followed by The Two Towers, was written by J.R.R. Tolkien.
+
+The author of The Fellowship of the Ring is J.R.R. Tolkien. It was followed by The Two Towers. The Hobbit came before this book. The Hobbit's genre is high fantasy and is classified in the juvenile fantasy genre of literature. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The Two Towers has followed by The Fellowship of the Ring. The Hobbit has literary genres Juvenile fantasy and High fantasy. The Fellowship of the Ring was written by J. R. R. Tolkien and precedes Other works.
+
+
+
+Correct sentence(s): 
+The Fellowship of the Ring was written by J.R.R Tolkien. The Two Towers is the sequel to it. It was preceded by the Hobbit. The Hobbit's genre is juvenile fantasy and literary genre is high fantasy.
+
+The Hobbit, which came before The Fellowship of the Ring, falls into the genres of high fantasy and juvenile fantasy. The Fellowship of the Ring, which was followed by The Two Towers, was written by J.R.R. Tolkien.
+
+The author of The Fellowship of the Ring is J.R.R. Tolkien. It was followed by The Two Towers. The Hobbit came before this book. The Hobbit's genre is high fantasy and is classified in the juvenile fantasy genre of literature. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+The Two Towers has followed by The Fellowship of the Ring. The Hobbit has literary genres Juvenile fantasy and High fantasy. The Fellowship of the Ring was written by J. R. R. Tolkien and precedes Other works.
+
+
+
+Correct sentence(s): 
+The Fellowship of the Ring was written by J.R.R Tolkien. The Two Towers is the sequel to it. It was preceded by the Hobbit. The Hobbit's genre is juvenile fantasy and literary genre is high fantasy.
+
+The Hobbit, which came before The Fellowship of the Ring, falls into the genres of high fantasy and juvenile fantasy. The Fellowship of the Ring, which was followed by The Two Towers, was written by J.R.R. Tolkien.
+
+The author of The Fellowship of the Ring is J.R.R. Tolkien. It was followed by The Two Towers. The Hobbit came before this book. The Hobbit's genre is high fantasy and is classified in the juvenile fantasy genre of literature. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nurhan Atasoy resides in Istanbul, Turkey, where the official language is Turkish. Turk language. Nurhan Atasoy resides in Turkey. Turkish language Turkey. Turkish, and Nurhan Atasoy residence: Istanbul/Turkey/Turkish.
+
+
+Correct sentence(s): 
+Nurhan Atasoy resides in Istanbul in Turkey where the primary language is Turkish.
+
+Nurhan Atasoy lives in Istanbul, Turkey, where the official language is Turkish.
+
+Formerly a resident of Istanbul, Nurhan Atasoy speaks the Turkish language and currently resides in Turkey. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nurhan Atasoy resides in Istanbul, Turkey, where the official language is Turkish. Turk language. Nurhan Atasoy resides in Turkey. Turkish language Turkey. Turkish, and Nurhan Atasoy residence: Istanbul/Turkey/Turkish.
+
+
+Correct sentence(s): 
+Nurhan Atasoy resides in Istanbul in Turkey where the primary language is Turkish.
+
+Nurhan Atasoy lives in Istanbul, Turkey, where the official language is Turkish.
+
+Formerly a resident of Istanbul, Nurhan Atasoy speaks the Turkish language and currently resides in Turkey. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Nurhan Atasoy resides in Istanbul, Turkey, where the official language is Turkish. Turk language. Nurhan Atasoy resides in Turkey. Turkish language Turkey. Turkish, and Nurhan Atasoy residence: Istanbul/Turkey/Turkish.
+
+
+Correct sentence(s): 
+Nurhan Atasoy resides in Istanbul in Turkey where the primary language is Turkish.
+
+Nurhan Atasoy lives in Istanbul, Turkey, where the official language is Turkish.
+
+Formerly a resident of Istanbul, Nurhan Atasoy speaks the Turkish language and currently resides in Turkey. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy has 16,800 undergraduate students. It has 2,900 staff members. The campus is located in Dijon.
+
+
+Correct sentence(s): 
+In Dijon, 2900 University of Burgundy staff members service 16,800 undergraduate students.
+
+The University of Burgundy, located in Dijon, has 16800 undergraduate students and 2900 staff members.
+
+The University of Burgundy campus, located in Dijon, has 16,800 undergraduate students and 2900 staff members. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy has 16,800 undergraduate students. It has 2,900 staff members. The campus is located in Dijon.
+
+
+Correct sentence(s): 
+In Dijon, 2900 University of Burgundy staff members service 16,800 undergraduate students.
+
+The University of Burgundy, located in Dijon, has 16800 undergraduate students and 2900 staff members.
+
+The University of Burgundy campus, located in Dijon, has 16,800 undergraduate students and 2900 staff members. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The University of Burgundy has 16,800 undergraduate students. It has 2,900 staff members. The campus is located in Dijon.
+
+
+Correct sentence(s): 
+In Dijon, 2900 University of Burgundy staff members service 16,800 undergraduate students.
+
+The University of Burgundy, located in Dijon, has 16800 undergraduate students and 2900 staff members.
+
+The University of Burgundy campus, located in Dijon, has 16,800 undergraduate students and 2900 staff members. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The ALCO RS-3 was built between May and August of the year 1950 and the construction continued until August 1956. It features a V12 engine and has 12 cylinders. The length of the ALCO RS-3 is 17,068.8 millimetres.
+
+
+Correct sentence(s): 
+The ALCO RS-3, which was produced between May 1950 and August 1956, has a V12 engine, a cylinder count of 12 and measures 17068.8 (millimetres) in length.
+
+The ALCO RS-3 was produced between May 1950 and August 1956 and has a length of 17068.8 millimetres. It has a cylinder count of 12 and a V12 engine.
+
+The ALCO RS-3 is 17068.8 millimetres in length and was produced between May 1950 and August 1956. The ALCO RS-3 has 12 cylinders and a V12 engine. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The ALCO RS-3 was built between May and August of the year 1950 and the construction continued until August 1956. It features a V12 engine and has 12 cylinders. The length of the ALCO RS-3 is 17,068.8 millimetres.
+
+
+Correct sentence(s): 
+The ALCO RS-3, which was produced between May 1950 and August 1956, has a V12 engine, a cylinder count of 12 and measures 17068.8 (millimetres) in length.
+
+The ALCO RS-3 was produced between May 1950 and August 1956 and has a length of 17068.8 millimetres. It has a cylinder count of 12 and a V12 engine.
+
+The ALCO RS-3 is 17068.8 millimetres in length and was produced between May 1950 and August 1956. The ALCO RS-3 has 12 cylinders and a V12 engine. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+The ALCO RS-3 was built between May and August of the year 1950 and the construction continued until August 1956. It features a V12 engine and has 12 cylinders. The length of the ALCO RS-3 is 17,068.8 millimetres.
+
+
+Correct sentence(s): 
+The ALCO RS-3, which was produced between May 1950 and August 1956, has a V12 engine, a cylinder count of 12 and measures 17068.8 (millimetres) in length.
+
+The ALCO RS-3 was produced between May 1950 and August 1956 and has a length of 17068.8 millimetres. It has a cylinder count of 12 and a V12 engine.
+
+The ALCO RS-3 is 17068.8 millimetres in length and was produced between May 1950 and August 1956. The ALCO RS-3 has 12 cylinders and a V12 engine. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Piotr Hallmann was born in Gdynia, Poland, where Gdynia is located in the Central European Time Zone, and his height is 70.308.
+
+Correct sentence(s):
+Piotr Hallmann who weighs 70.308 kg was born in Gdynia, Poland which has the Central European timezone.
+
+The 70.308 kg Piotr Hallmann was born in Gdynia, Poland which is on Central European Time.
+
+Piotr Hallmann weighs 70.308kg and was born in Gdynia, Poland, which is in the Central European timezone. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Piotr Hallmann was born in Gdynia, Poland, where Gdynia is located in the Central European Time Zone, and his height is 70.308.
+
+Correct sentence(s):
+Piotr Hallmann who weighs 70.308 kg was born in Gdynia, Poland which has the Central European timezone.
+
+The 70.308 kg Piotr Hallmann was born in Gdynia, Poland which is on Central European Time.
+
+Piotr Hallmann weighs 70.308kg and was born in Gdynia, Poland, which is in the Central European timezone. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+
+Piotr Hallmann was born in Gdynia, Poland, where Gdynia is located in the Central European Time Zone, and his height is 70.308.
+
+Correct sentence(s):
+Piotr Hallmann who weighs 70.308 kg was born in Gdynia, Poland which has the Central European timezone.
+
+The 70.308 kg Piotr Hallmann was born in Gdynia, Poland which is on Central European Time.
+
+Piotr Hallmann weighs 70.308kg and was born in Gdynia, Poland, which is in the Central European timezone. - The AI-generated sentence contains facts that are not present in the correct sentences.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Turkey has longName Republic of Turkey and is populated by Turkish people, including individuals like Nurhan Atasoy who is a citizen of Turkey. The country, officially known as the Republic of Turkey, primarily speaks Turkish.
+
+
+Correct sentence(s): 
+Nurhan Atasoy is a Turkish national (full name ""Republic of Turkey"") with Turkish citizenship. The primary language spoken in Turkey is Turkish.
+
+Nurhan Atasoy, whose nationality is Turkish, is a citizen of Turkey. Turkey’s long name is “The Republic of Turkey” and the language spoken is Turkish.
+
+Nurhan Atasoy is a citizen of the Republic of Turkey. Turkish is the primary language of that country. - The AI-generated sentence includes all the facts that are present in the original sentence(s) correctly.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Turkey has longName Republic of Turkey and is populated by Turkish people, including individuals like Nurhan Atasoy who is a citizen of Turkey. The country, officially known as the Republic of Turkey, primarily speaks Turkish.
+
+
+Correct sentence(s): 
+Nurhan Atasoy is a Turkish national (full name ""Republic of Turkey"") with Turkish citizenship. The primary language spoken in Turkey is Turkish.
+
+Nurhan Atasoy, whose nationality is Turkish, is a citizen of Turkey. Turkey’s long name is “The Republic of Turkey” and the language spoken is Turkish.
+
+Nurhan Atasoy is a citizen of the Republic of Turkey. Turkish is the primary language of that country. - The structure of the text is fluent and readable.","To what extent does the generated sentence correspond to the correct sentence(s)?
+
+
+
+Generated sentence:
+Turkey has longName Republic of Turkey and is populated by Turkish people, including individuals like Nurhan Atasoy who is a citizen of Turkey. The country, officially known as the Republic of Turkey, primarily speaks Turkish.
+
+
+Correct sentence(s): 
+Nurhan Atasoy is a Turkish national (full name ""Republic of Turkey"") with Turkish citizenship. The primary language spoken in Turkey is Turkish.
+
+Nurhan Atasoy, whose nationality is Turkish, is a citizen of Turkey. Turkey’s long name is “The Republic of Turkey” and the language spoken is Turkish.
+
+Nurhan Atasoy is a citizen of the Republic of Turkey. Turkish is the primary language of that country. - The AI-generated sentence contains facts that are not present in the correct sentences."
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID37""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID3_2""}","{""ImportId"":""QID3_3""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID4_2""}","{""ImportId"":""QID4_3""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID5_3""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID6_2""}","{""ImportId"":""QID6_3""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID14_3""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID16_2""}","{""ImportId"":""QID16_3""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID17_2""}","{""ImportId"":""QID17_3""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID18_2""}","{""ImportId"":""QID18_3""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID19_2""}","{""ImportId"":""QID19_3""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID20_2""}","{""ImportId"":""QID20_3""}","{""ImportId"":""QID21_1""}","{""ImportId"":""QID21_2""}","{""ImportId"":""QID21_3""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID22_2""}","{""ImportId"":""QID22_3""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID23_2""}","{""ImportId"":""QID23_3""}","{""ImportId"":""QID24_1""}","{""ImportId"":""QID24_2""}","{""ImportId"":""QID24_3""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID25_2""}","{""ImportId"":""QID25_3""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_2""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_3""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID31_3""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID29_2""}","{""ImportId"":""QID29_3""}"
+2025-05-29 10:14:29,2025-05-29 10:24:57,IP Address,*******,100,627,True,2025-05-29 10:24:57,R_2u2E4HPKo1zPCLv,*******,*******,*******,*******,*******,*******,anonymous,EN,Yes,10,10,0,10,6,0,10,10,0,10,6,0,10,7,0,10,4,0,10,6,0,10,10,0,10,10,0,10,6,0,10,10,0,10,7,0,8,8,0,9,8,0,10,10,0,9,7,0,10,10,0,7,8,4,10,10,0,10,10,0,10,10,0,9,7,2,10,10,0,10,10,0,6,9,4,7,0,3,10,10,0,10,10,0,10,8,6,9,2,5
+2025-05-30 05:28:02,2025-05-30 06:00:31,IP Address,*******,100,1948,True,2025-05-30 06:00:31,R_82DYWxHO4ZXsTDj,*******,*******,*******,*******,*******,*******,anonymous,EN,Yes,7,10,0,9,3,8,10,10,0,10,4,1,9,8,1,8,1,3,6,2,6,10,8,1,9,9,0,6,2,5,10,8,0,5,2,7,8,9,4,8,9,1,7,5,5,8,4,1,7,8,1,4,6,8,10,10,0,10,6,1,10,10,1,5,2,9,10,10,0,10,10,1,6,2,5,8,1,2,10,10,1,6,7,8,8,2,3,7,1,5
